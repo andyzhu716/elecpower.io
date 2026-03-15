@@ -1,0 +1,53 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Products"
+url = "/products"
+weight = 2
+
+[[main]]
+name = "Applications"
+url = "/applications"
+weight = 3
+
+[[main]]
+name = "Technical Insights"
+url = "/blog"
+weight = 4
+
+[[main]]
+name = "FAQ"
+url = "/faq"
+weight = 5
+
+[[main]]
+name = "About Us"
+url = "/about"
+weight = 6
+
+[[main]]
+name = "Contact"
+url = "/contact"
+weight = 7
+
+# footer menu
+[[footer]]
+name = "About Us"
+url = "/about"
+weight = 1
+
+[[footer]]
+name = "Contact"
+url = "/contact"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "/privacy-policy"
+weight = 3

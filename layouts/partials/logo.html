@@ -1,0 +1,29 @@
+{{ $logo:= site.Params.logo }}
+{{ $logo_darkmode:= site.Params.logo_darkmode }}
+{{ $logo_width:= site.Params.logo_width | default "150px" }}
+{{ $logo_height:= site.Params.logo_height | default "auto" }}
+{{ $logo_text:= site.Params.logo_text }}
+
+{{ if $logo }}
+  <img
+    fetchpriority="high"
+    decoding="async"
+    class="img logo-light"
+    width="{{ $logo_width }}"
+    height="{{ $logo_height }}"
+    src="{{ $logo | relURL }}"
+    alt="{{ site.Title }}"
+    onerror="this.onerror=null;this.src='{{ $logo | relURL }}'" />
+
+  <img
+    fetchpriority="high"
+    decoding="async"
+    class="img logo-dark"
+    width="{{ $logo_width }}"
+    height="{{ $logo_height }}"
+    src="{{ $logo_darkmode | relURL }}"
+    alt="{{ site.Title }}"
+    onerror="this.onerror=null;this.src='{{ $logo_darkmode | relURL }}'" />
+{{ else }}
+  <span class="text-3xl font-bold font-secondary text-primary dark:text-white" style="font-family: 'Signika', sans-serif; letter-spacing: -1px;">{{ $logo_text }}</span>
+{{ end }}
