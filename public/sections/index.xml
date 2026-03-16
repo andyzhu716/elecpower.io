@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sections on ElecPower - Wetown Industrial Power Solutions</title>
-    <link>http://localhost:1340/sections/</link>
+    <link>http://localhost:1341/sections/</link>
     <description>Recent content in Sections on ElecPower - Wetown Industrial Power Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1340/sections/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1341/sections/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ready to Start Your Power Infrastructure Project?</title>
       <link></link>

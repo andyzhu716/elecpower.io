@@ -1,33 +1,50 @@
 ---
-title: "Privacy"
+title: "Privacy Policy"
 # meta title
-meta_title: ""
+meta_title: "Privacy Policy - Wetown Electric Group"
 # meta description
-description: "This is meta description"
+description: "Privacy policy for Wetown Electric Group Co., Ltd. Learn how we collect, use, and protect your personal information."
 # save as draft
 draft: false
 ---
 
-#### Responsibility of Contributors
+#### Introduction
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+Wetown Electric Group Co., Ltd. ("we," "us," or "our") respects your privacy and is committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.
 
-pretium, aliquam sit. Praesent elementum magna amet, tincidunt eros, nibh in leo. Malesuada purus, lacus, at aliquam suspendisse tempus. Quis tempus amet, velit nascetur sollicitudin. At sollicitudin eget amet in. Eu velit nascetur sollicitudin erhdfvssfvrgss eget viverra nec elementum. Lacus, facilisis tristique lectus in.
+#### Information We Collect
 
-#### Gathering of Personal Information
+We may collect, use, store and transfer different kinds of personal data about you which we have grouped together as follows:
+- **Identity Data:** Includes first name, last name, username or similar identifier.
+- **Contact Data:** Includes email address and telephone numbers provided via our contact forms.
+- **Technical Data:** Includes internet protocol (IP) address, your login data, browser type and version, time zone setting and location, and other technology on the devices you use to access this website.
+- **Usage Data:** Includes information about how you use our website, products, and services.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus. Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
+#### How We Use Your Information
 
-#### Protection of Personal- Information
+We will only use your personal data when the law allows us to. Most commonly, we will use your personal data in the following circumstances:
+- To provide information or services you have requested (e.g., responding to inquiries).
+- To improve our website, products/services, marketing, or customer relationships.
+- To comply with a legal or regulatory obligation.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.
+#### Data Security
 
-Molestie urna eu tortor, erat scelerisque eget. Nunc hendrerit sed interdum lacus. Lorem quis viverra sed
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat
+We have put in place appropriate security measures to prevent your personal data from being accidentally lost, used or accessed in an unauthorized way, altered or disclosed. In addition, we limit access to your personal data to those employees, agents, contractors and other third parties who have a business need to know.
 
-#### Privacy Policy Changes
+#### Data Retention
 
-1. Sll the Themefisher items are designed to be with the latest , We check all
-2. comments that threaten or harm the reputation of any person or organization
-3. personal information including, but limited to, email addresses, telephone numbers
-4. Any Update come in The technology Customer will get automatic Notification.
+We will only retain your personal data for as long as necessary to fulfill the purposes we collected it for, including for the purposes of satisfying any legal, accounting, or reporting requirements.
+
+#### Your Legal Rights
+
+Under certain circumstances, you have rights under data protection laws in relation to your personal data, including the right to request access, correction, erasure, restriction, or transfer of your personal data.
+
+#### Changes to This Privacy Policy
+
+We keep our privacy policy under regular review. Any updates to our technology or privacy practices will be reflected on this page, and customers will be notified of significant changes via website announcements.
+
+#### Contact Us
+
+If you have any questions about this privacy policy or our privacy practices, please contact us at:
+- **Email:** andyzhu716@gmail.com
+- **Address:** No.1, Nanzi Road, Technology Park, Xinba Town, Yangzhong City, Jiangsu, China
