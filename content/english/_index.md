@@ -1,8 +1,13 @@
 ---
+# Meta Data
+title: "Wetown Electric Group - Global Power Distribution & Energy Storage Solutions"
+meta_title: "Wetown Electric - Leading Manufacturer of IPB, Busbar Systems & Energy Storage"
+description: "Wetown Electric Group (688226) is a world-class provider of High Voltage Busbars (IPB/SPB), Energy Storage Systems (ESS), and PV Materials for power plants and industry."
+
 # Banner
 banner:
   title: "Wetown: Leading Power Distribution & New Energy Solutions"
-  content: "Wetown Electric Group covers three major businesses: Power Distribution, Energy Storage Systems, and Photovoltaic New Materials. We are committed to providing high-quality products and solutions for New Energy, Industrial Manufacturing, Power Grids, Data Centers, Rail Transit, and Commercial Real Estate."
+  content: "Wetown Electric Group (Stock Code: 688226) is a premier global manufacturer specializing in High Voltage Busbar Systems, Energy Storage, and Photovoltaic Materials. We deliver reliable power distribution solutions for Power Generation, Industrial Manufacturing, Data Centers, and Rail Transit worldwide."
   image: "/images/wetown/company2.png"
   button:
     enable: true
@@ -12,7 +17,7 @@ banner:
 # Features
 features:
   - title: "Core Products: High & Medium Voltage Busbar Systems"
-    image: "/images/wetown/product.png"
+    image: "/images/wetown/product1.png"
     content: "Wetown is a leading manufacturer of comprehensive busbar systems, providing reliable power transmission solutions for power plants, data centers, and industrial facilities."
     bulletpoints:
       - "**High-Voltage Isolated Phase Bus (IPB):** Continuous enclosure design for generator-to-transformer connections (up to 30,000A+), featuring 99.9% shielding efficiency, elimination of phase-to-phase faults, and prevention of supporting steel structure heating."
