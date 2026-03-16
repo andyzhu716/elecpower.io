@@ -568,6 +568,9 @@
   .h-6 {
     height: calc(var(--spacing) * 6);
   }
+  .h-full {
+    height: 100%;
+  }
   .col-12 {
     flex: 0 0 auto;
     width: 100%;
@@ -752,6 +755,9 @@
   }
   .fill-current {
     fill: currentcolor;
+  }
+  .object-cover {
+    object-fit: cover;
   }
   .p-6 {
     padding: calc(var(--spacing) * 6);

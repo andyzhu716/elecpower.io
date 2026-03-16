@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Electrical Equipment on ElecPower - Wetown Industrial Power Solutions</title>
-    <link>http://localhost:1339/tags/electrical-equipment/</link>
+    <link>http://localhost:1340/tags/electrical-equipment/</link>
     <description>Recent content in Electrical Equipment on ElecPower - Wetown Industrial Power Solutions</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Mar 2026 00:00:00 -0400</lastBuildDate>
-    <atom:link href="http://localhost:1339/tags/electrical-equipment/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1340/tags/electrical-equipment/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>IPB vs Busbar Trunking (IEC 61439‑6): Key Differences</title>
-      <link>http://localhost:1339/blog/ipb-vs-enclosed-busbar/</link>
+      <link>http://localhost:1340/blog/ipb-vs-enclosed-busbar/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate>
-      <guid>http://localhost:1339/blog/ipb-vs-enclosed-busbar/</guid>
+      <guid>http://localhost:1340/blog/ipb-vs-enclosed-busbar/</guid>
       <description>&lt;h1 id=&#34;ipb-vs-busbar-trunking-key-differences&#34;&gt;IPB vs Busbar Trunking: Key Differences&lt;/h1&gt;&#xA;&lt;p&gt;Isolated Phase Bus (IPB) and Busbar Trunking (BTS) serve different functions in power distribution systems based on conductor arrangement, enclosure design, and application domain.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Where Are Busbar Systems Commonly Used?</title>
-      <link>http://localhost:1339/blog/busbar-system-applications/</link>
+      <link>http://localhost:1340/blog/busbar-system-applications/</link>
       <pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate>
-      <guid>http://localhost:1339/blog/busbar-system-applications/</guid>
+      <guid>http://localhost:1340/blog/busbar-system-applications/</guid>
       <description>&lt;h1 id=&#34;where-are-busbar-systems-commonly-used&#34;&gt;Where Are Busbar Systems Commonly Used?&lt;/h1&gt;&#xA;&lt;p&gt;Busbar systems provide efficient power distribution solutions across various facility types based on current rating requirements and distribution architecture.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technical Overview of Isolated Phase Bus (IPB)</title>
-      <link>http://localhost:1339/blog/ipb-technical-overview/</link>
+      <link>http://localhost:1340/blog/ipb-technical-overview/</link>
       <pubDate>Tue, 11 Mar 2025 00:00:00 -0400</pubDate>
-      <guid>http://localhost:1339/blog/ipb-technical-overview/</guid>
+      <guid>http://localhost:1340/blog/ipb-technical-overview/</guid>
       <description>&lt;h1 id=&#34;technical-overview-of-wetown-isolated-phase-bus-ipb&#34;&gt;Technical Overview of Wetown Isolated Phase Bus (IPB)&lt;/h1&gt;&#xA;&lt;p&gt;Wetown Isolated Phase Bus (IPB) is a type of electrical busbar system used for high-current power distribution in industrial facilities, power plants, and large commercial buildings. It provides a reliable and efficient method for transmitting large amounts of electrical power.&lt;/p&gt;</description>
     </item>
   </channel>

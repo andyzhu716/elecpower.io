@@ -25,7 +25,7 @@ features:
       link: "/blog"
 
   - title: "Global Success Stories"
-    image: "/images/wetown/case2.png"
+    image: "/images/wetown/case3.png"
     image2: "/images/wetown/case1.png"
     content: "Our systems power the world's most iconic infrastructure and critical facilities, demonstrating engineering excellence across various industries."
     bulletpoints:
@@ -39,13 +39,15 @@ features:
       link: "/applications"
 
   - title: "Why Choose Wetown"
-    image: "/images/service-3.png"
-    content: "We adhere to the highest international standards, ensuring safety, durability, and operational excellence."
+    image: "/images/wetown/nengli.png"
+    content: "We adhere to the highest international standards, leveraging our advanced R&D and intelligent manufacturing capabilities to ensure safety, durability, and operational excellence."
     bulletpoints:
-      - "Compliant with IEC and GB international electrical standards."
-      - "Rigorous factory acceptance testing (FAT) before delivery."
-      - "Extensive industry experience in complex engineering projects."
-      - "Dedicated technical support for design and installation."
+      - "**Full Industry Chain Integration:** From raw material production and surface treatment to precision manufacturing and turnkey installation, ensuring total quality control across the lifecycle."
+      - "**Comprehensive Product Matrix:** Covering 220V-252kV voltage levels and 25A-30000A current ratings, meeting diverse needs for power grids, data centers, and heavy industry."
+      - "**Advanced R&D & Testing:** Three specialized R&D centers (Yangzhong, Nanjing, Guangzhou) and a National CNAS/DEKRA/ASTA/TUV certified laboratory for extreme parameter simulation."
+      - "**5G-Powered Digital Manufacturing:** Intelligent production ecosystem utilizing SRM, PLM, MES, and WMS within a 5G-connected factory for high-precision, lean manufacturing."
+      - "**End-to-End Service Ecosystem:** Providing a full ecological chain including project investment, equipment delivery, EPC construction, smart energy management, and professional O&M services."
+      - "**Strategic Global Partnerships:** Collaborative innovation with global leaders like ABB (Jiangsu Wetown ABB Busbar Co., Ltd.) to deliver world-class electrical solutions."
     button:
       enable: true
       label: "Contact Engineering Team"
