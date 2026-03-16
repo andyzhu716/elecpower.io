@@ -18,7 +18,7 @@ Wetown Isolated Phase Bus (IPB) is a prefabricated, metal-enclosed busbar system
 
 According to IEEE C37.23, Wetown IPB systems are typically designed for very high rated currents (often up to 30,000A or more for large generator connections) and generator voltage levels, making them essential for major power generation applications.
 
-![Wetown IPB System Structure](/images/wetown/wetown-ipb-structure.png "Wetown IPB system features a compact, integrated design suitable for generator connections")
+
 
 ## Key Components
 
@@ -55,7 +55,7 @@ According to IEEE C37.23, Wetown IPB systems are typically designed for very hig
 - **Data Centers**: Reliable power delivery
 - **Chemical Plants**: Explosion-proof requirements
 
-![Wetown Busbar Applications](/images/wetown/wetown-applications.png "Wetown busbar systems serve diverse industries including Nuclear, Thermal, and Hydro power")
+
 
 ## Advantages
 
@@ -65,7 +65,7 @@ According to IEEE C37.23, Wetown IPB systems are typically designed for very hig
 4. **Custom Engineering**: Specifically designed for each power plant layout
 5. **High Reliability**: Proven track record in demanding generation environments
 
-![Wetown Nuclear Standard Compliance](/images/wetown/wetown-nuclear-standard.png "Wetown participates in setting industry standards, including those for Nuclear Power Plant busbars")
+
 
 ## Installation Considerations
 

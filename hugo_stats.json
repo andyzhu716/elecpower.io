@@ -3,7 +3,6 @@
     "tags": [
       "a",
       "article",
-      "base",
       "blockquote",
       "body",
       "button",
@@ -371,6 +370,7 @@
       "commercial-buildings",
       "company-snapshot",
       "conclusion",
+      "contact-information",
       "contact-us",
       "custom-video",
       "data-retention",
