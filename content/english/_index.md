@@ -11,7 +11,7 @@ banner:
   image: "/images/wetown/company2.png"
   button:
     enable: true
-    label: "Explore Our Solutions"
+    label: "Tech Insight"
     link: "/blog"
 
 # Features
@@ -31,7 +31,7 @@ features:
       - "**Photovoltaic Materials:** High-quality PV ribbons and solar components, positioning Wetown as a key player in the global solar energy supply chain."
     button:
       enable: true
-      label: "View All Products"
+      label: "view products"
       link: "/products"
 
   - title: "Global Success Stories"
@@ -60,6 +60,6 @@ features:
       - "**Strategic Global Partnerships:** Collaborative innovation with global leaders like ABB (Jiangsu Wetown ABB Busbar Co., Ltd.) to deliver world-class electrical solutions."
     button:
       enable: true
-      label: "Contact Engineering Team"
+      label: "contact us"
       link: "/contact"
 ---

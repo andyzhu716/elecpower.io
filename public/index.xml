@@ -1,47 +1,82 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Wetown Electric Group - Global Power Distribution &amp; Energy Storage Solutions on ElecPower - Wetown Industrial Power Solutions</title><link>https://www.elecpower.cn/</link><description>Recent content in Wetown Electric Group - Global Power Distribution &amp; Energy Storage Solutions on ElecPower - Wetown Industrial Power Solutions</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 12 Mar 2026 00:00:00 -0400</lastBuildDate><atom:link href="https://www.elecpower.cn/index.xml" rel="self" type="application/rss+xml"/><item><title>IPB vs Busbar Trunking (IEC 61439‑6): Key Differences</title><link>https://www.elecpower.cn/blog/ipb-vs-enclosed-busbar/</link><pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate><guid>https://www.elecpower.cn/blog/ipb-vs-enclosed-busbar/</guid><description>&lt;h1 id="ipb-vs-busbar-trunking-key-differences"&gt;IPB vs Busbar Trunking: Key Differences&lt;/h1&gt;
-&lt;p&gt;Isolated Phase Bus (IPB) and Busbar Trunking (BTS) serve different functions in power distribution systems based on conductor arrangement, enclosure design, and application domain.&lt;/p&gt;</description></item><item><title>Where Are Busbar Systems Commonly Used?</title><link>https://www.elecpower.cn/blog/busbar-system-applications/</link><pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate><guid>https://www.elecpower.cn/blog/busbar-system-applications/</guid><description>&lt;h1 id="where-are-busbar-systems-commonly-used"&gt;Where Are Busbar Systems Commonly Used?&lt;/h1&gt;
-&lt;p&gt;Busbar systems provide efficient power distribution solutions across various facility types based on current rating requirements and distribution architecture.&lt;/p&gt;</description></item><item><title>Technical Overview of Isolated Phase Bus (IPB)</title><link>https://www.elecpower.cn/blog/ipb-technical-overview/</link><pubDate>Tue, 11 Mar 2025 00:00:00 -0400</pubDate><guid>https://www.elecpower.cn/blog/ipb-technical-overview/</guid><description>&lt;h1 id="technical-overview-of-wetown-isolated-phase-bus-ipb"&gt;Technical Overview of Wetown Isolated Phase Bus (IPB)&lt;/h1&gt;
-&lt;p&gt;Wetown Isolated Phase Bus (IPB) is a type of electrical busbar system used for high-current power distribution in industrial facilities, power plants, and large commercial buildings. It provides a reliable and efficient method for transmitting large amounts of electrical power.&lt;/p&gt;</description></item><item><title>Elements</title><link>https://www.elecpower.cn/elements/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.elecpower.cn/elements/</guid><description>&lt;details class="table-of-content "&gt;
- &lt;summary&gt;
- 
- Table of Contents
- 
- &lt;/summary&gt;
- &lt;nav id="TableOfContents"&gt;
- &lt;ol&gt;
- &lt;li&gt;&lt;a href="#heading-2"&gt;Heading 2&lt;/a&gt;
- &lt;ol&gt;
- &lt;li&gt;&lt;a href="#heading-3"&gt;Heading 3&lt;/a&gt;
- &lt;ol&gt;
- &lt;li&gt;&lt;a href="#heading-4"&gt;Heading 4&lt;/a&gt;
- &lt;ol&gt;
- &lt;li&gt;&lt;a href="#heading-5"&gt;Heading 5&lt;/a&gt;&lt;/li&gt;
- &lt;/ol&gt;
- &lt;/li&gt;
- &lt;/ol&gt;
- &lt;/li&gt;
- &lt;li&gt;&lt;a href="#emphasis"&gt;Emphasis&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#button"&gt;Button&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#link"&gt;Link&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#paragraph"&gt;Paragraph&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#ordered-list"&gt;Ordered List&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#unordered-list"&gt;Unordered List&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#notice"&gt;Notice&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#tab"&gt;Tab&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#accordions"&gt;Accordions&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#code-and-syntax-highlighting"&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#blockquote"&gt;Blockquote&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#tables"&gt;Tables&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#image"&gt;Image&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#gallery"&gt;Gallery&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#slider"&gt;Slider&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#youtube-video"&gt;Youtube video&lt;/a&gt;&lt;/li&gt;
- &lt;li&gt;&lt;a href="#custom-video"&gt;Custom video&lt;/a&gt;&lt;/li&gt;
- &lt;/ol&gt;
- &lt;/li&gt;
- &lt;/ol&gt;
-&lt;/nav&gt;
-&lt;/details&gt;
-
-&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description></item><item><title>John Doe</title><link>https://www.elecpower.cn/authors/john-doe/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.elecpower.cn/authors/john-doe/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item><item><title>Privacy Policy</title><link>https://www.elecpower.cn/privacy-policy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.elecpower.cn/privacy-policy/</guid><description>&lt;h4 id="introduction"&gt;Introduction&lt;/h4&gt;
-&lt;p&gt;Wetown Electric Group Co., Ltd. (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) respects your privacy and is committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.&lt;/p&gt;</description></item><item><title>Ready to Start Your Power Infrastructure Project?</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>Sam Wilson</title><link>https://www.elecpower.cn/authors/sam-wilson/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.elecpower.cn/authors/sam-wilson/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item><item><title>Trusted by Industry Leaders</title><link/><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid/><description/></item><item><title>William Jacob</title><link>https://www.elecpower.cn/authors/william-jacob/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://www.elecpower.cn/authors/william-jacob/</guid><description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wetown Electric Group - Global Power Distribution &amp; Energy Storage Solutions on ElecPower - Wetown Industrial Power Solutions</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Wetown Electric Group - Global Power Distribution &amp; Energy Storage Solutions on ElecPower - Wetown Industrial Power Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 12 Mar 2026 00:00:00 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IPB vs Busbar Trunking (IEC 61439‑6): Key Differences</title>
+      <link>http://localhost:1313/blog/ipb-vs-enclosed-busbar/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/ipb-vs-enclosed-busbar/</guid>
+      <description>&lt;h1 id=&#34;ipb-vs-busbar-trunking-key-differences&#34;&gt;IPB vs Busbar Trunking: Key Differences&lt;/h1&gt;&#xA;&lt;p&gt;Isolated Phase Bus (IPB) and Busbar Trunking (BTS) serve different functions in power distribution systems based on conductor arrangement, enclosure design, and application domain.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Where Are Busbar Systems Commonly Used?</title>
+      <link>http://localhost:1313/blog/busbar-system-applications/</link>
+      <pubDate>Thu, 12 Mar 2026 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/busbar-system-applications/</guid>
+      <description>&lt;h1 id=&#34;where-are-busbar-systems-commonly-used&#34;&gt;Where Are Busbar Systems Commonly Used?&lt;/h1&gt;&#xA;&lt;p&gt;Busbar systems provide efficient power distribution solutions across various facility types based on current rating requirements and distribution architecture.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical Overview of Isolated Phase Bus (IPB)</title>
+      <link>http://localhost:1313/blog/ipb-technical-overview/</link>
+      <pubDate>Tue, 11 Mar 2025 00:00:00 -0400</pubDate>
+      <guid>http://localhost:1313/blog/ipb-technical-overview/</guid>
+      <description>&lt;h1 id=&#34;technical-overview-of-wetown-isolated-phase-bus-ipb&#34;&gt;Technical Overview of Wetown Isolated Phase Bus (IPB)&lt;/h1&gt;&#xA;&lt;p&gt;Wetown Isolated Phase Bus (IPB) is a type of electrical busbar system used for high-current power distribution in industrial facilities, power plants, and large commercial buildings. It provides a reliable and efficient method for transmitting large amounts of electrical power.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:1313/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/elements/</guid>
+      <description>&lt;details class=&#34;table-of-content &#34;&gt;&#xA;  &lt;summary&gt;&#xA;    &#xA;      Table of Contents&#xA;    &#xA;  &lt;/summary&gt;&#xA;  &lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ol&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#heading-2&#34;&gt;Heading 2&lt;/a&gt;&#xA;      &lt;ol&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#heading-3&#34;&gt;Heading 3&lt;/a&gt;&#xA;          &lt;ol&gt;&#xA;            &lt;li&gt;&lt;a href=&#34;#heading-4&#34;&gt;Heading 4&lt;/a&gt;&#xA;              &lt;ol&gt;&#xA;                &lt;li&gt;&lt;a href=&#34;#heading-5&#34;&gt;Heading 5&lt;/a&gt;&lt;/li&gt;&#xA;              &lt;/ol&gt;&#xA;            &lt;/li&gt;&#xA;          &lt;/ol&gt;&#xA;        &lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#emphasis&#34;&gt;Emphasis&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#button&#34;&gt;Button&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#link&#34;&gt;Link&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#paragraph&#34;&gt;Paragraph&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ordered-list&#34;&gt;Ordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#unordered-list&#34;&gt;Unordered List&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#notice&#34;&gt;Notice&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tab&#34;&gt;Tab&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#accordions&#34;&gt;Accordions&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#code-and-syntax-highlighting&#34;&gt;Code and Syntax Highlighting&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#blockquote&#34;&gt;Blockquote&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#tables&#34;&gt;Tables&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#image&#34;&gt;Image&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gallery&#34;&gt;Gallery&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#slider&#34;&gt;Slider&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#youtube-video&#34;&gt;Youtube video&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#custom-video&#34;&gt;Custom video&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ol&gt;&#xA;    &lt;/li&gt;&#xA;  &lt;/ol&gt;&#xA;&lt;/nav&gt;&#xA;&lt;/details&gt;&#xA;&#xA;&lt;p&gt;Here is an example of headings. You can use this heading by the following markdown rules. For example: use &lt;code&gt;#&lt;/code&gt; for heading 1 and use &lt;code&gt;######&lt;/code&gt; for heading 6.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>John Doe</title>
+      <link>http://localhost:1313/authors/john-doe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/john-doe/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Privacy Policy</title>
+      <link>http://localhost:1313/privacy-policy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/privacy-policy/</guid>
+      <description>&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;&#xA;&lt;p&gt;Wetown Electric Group Co., Ltd. (&amp;ldquo;we,&amp;rdquo; &amp;ldquo;us,&amp;rdquo; or &amp;ldquo;our&amp;rdquo;) respects your privacy and is committed to protecting your personal data. This privacy policy will inform you about how we look after your personal data when you visit our website and tell you about your privacy rights and how the law protects you.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ready to Start Your Power Infrastructure Project?</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Sam Wilson</title>
+      <link>http://localhost:1313/authors/sam-wilson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/sam-wilson/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Trusted by Industry Leaders</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    <item>
+      <title>William Jacob</title>
+      <link>http://localhost:1313/authors/william-jacob/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/authors/william-jacob/</guid>
+      <description>&lt;p&gt;lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostr navigation et dolore magna aliqua.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

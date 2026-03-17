@@ -1,5 +1,5 @@
 ---
-enable: true
+enable: false
 title: "Trusted by Industry Leaders"
 description: "Our power distribution systems and isolated phase bus solutions have been successfully deployed in major power plants and industrial facilities worldwide."
 
