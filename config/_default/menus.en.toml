@@ -17,7 +17,7 @@ url = "/applications"
 weight = 3
 
 [[main]]
-name = "Technical Insights"
+name = "Blog"
 url = "/blog"
 weight = 4
 

@@ -2,7 +2,6 @@
 title: "About Wetown Electric Group"
 meta_title: "About Wetown Electric - Global Leader in Busbar Systems & Energy Storage"
 description: "Learn about Wetown Electric Group (688226), a top manufacturer of IPB, SPB, and CRB busbar systems, energy storage, and PV materials. 30+ years of innovation."
-image: "/images/wetown/company2.png"
 layout: "about"
 draft: false
 ---

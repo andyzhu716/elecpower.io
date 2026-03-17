@@ -32,7 +32,7 @@ features:
     button:
       enable: true
       label: "View All Products"
-      link: "/blog"
+      link: "/products"
 
   - title: "Global Success Stories"
     image: "/images/wetown/case3.png"
