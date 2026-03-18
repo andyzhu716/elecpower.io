@@ -10,7 +10,7 @@ Explore Wetown's industry-leading power distribution solutions, engineered for m
 
 ### Isolated Phase Bus (IPB)
 **Application:** Main generator loop (Generator to Transformer connection) in power plants (Thermal, Nuclear, Hydro, Pumped Storage).
-![Wetown IPB System](images/wetown/ipb.png "Wetown Isolated Phase Bus System")
+![Wetown IPB System](/elecpower.io/images/wetown/ipb.png "Wetown Isolated Phase Bus System")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -28,13 +28,13 @@ Explore Wetown's industry-leading power distribution solutions, engineered for m
   - **Safety:** Eliminates phase-to-phase faults; high short-circuit withstand capability.
   - **Structure:** Large span support capability, minimizing civil engineering costs.
 
-![IPB Layout Structure](images/wetown/ipb-layout.png "Typical IPB Layout and Support Structure")
+![IPB Layout Structure](/elecpower.io/images/wetown/ipb-layout.png "Typical IPB Layout and Support Structure")
 
 ### Auxiliary Equipment for IPB
 To ensure the stable operation of the IPB system, Wetown provides a complete set of auxiliary cabinets:
 
 #### PT & LA Cubicle (Potential Transformer & Lightning Arrester)
-![PT & LA Cubicle](images/wetown/PT & LA Cubicle.png "PT & LA Cubicle")
+![PT & LA Cubicle](/elecpower.io/images/wetown/PT & LA Cubicle.png "PT & LA Cubicle")
 - **Function:** Provides voltage monitoring and overvoltage protection for the main generator loop.
 - **Features:**
   - **Modular Design:** Draw-out type for easy maintenance and testing.
@@ -42,7 +42,7 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
   - **Protection:** Equipped with high-capacity lightning arresters to suppress switching surges.
 
 #### Neutral Grounding Cabinet (NGC)
-![Neutral Grounding Cabinet](images/wetown/ngc.png "Neutral Grounding Cabinet")
+![Neutral Grounding Cabinet](/elecpower.io/images/wetown/ngc.png "Neutral Grounding Cabinet")
 - **Function:** Connects the generator neutral point to ground via a high-resistance resistor to limit fault current.
 - **Key Specs:**
   - **Rated Voltage:** Up to 24kV
@@ -51,7 +51,7 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
   - **Monitoring:** Integrated intelligent monitor for ground fault detection.
 
 #### Air Circulation Drying Unit (ACDU)
-![Air Circulation Drying Unit](images/wetown/ACDU.png "Air Circulation Drying Unit")
+![Air Circulation Drying Unit](/elecpower.io/images/wetown/ACDU.png "Air Circulation Drying Unit")
 - **Function:** Maintains positive pressure and dry air inside the IPB enclosure to prevent condensation and dust ingress.
 - **Features:**
   - **Dual Mode:** Automatic switching between micro-positive pressure and circulation drying.
@@ -60,8 +60,8 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
 
 ### Non-Segregated Phase Bus (NSPB)
 **Application:** Medium voltage distribution in 600MW/1000MW power plants and industrial facilities.
-![Wetown NSPB System](images/wetown/nspb.png "Wetown Non-Segregated Phase Bus")
-![NSPB Layout Diagram](images/wetown/nspb-layout.png "NSPB Typical Layout Diagram")
+![Wetown NSPB System](/elecpower.io/images/wetown/nspb.png "Wetown Non-Segregated Phase Bus")
+![NSPB Layout Diagram](/elecpower.io/images/wetown/nspb-layout.png "NSPB Typical Layout Diagram")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -79,7 +79,7 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
 
 ### Segregated Phase Bus (SPB)
 **Application:** Power plant auxiliary power, start-up transformers, and industrial substations.
-![Wetown SPB System](images/wetown/spb.png "Wetown Segregated Phase Bus")
+![Wetown SPB System](/elecpower.io/images/wetown/spb.png "Wetown Segregated Phase Bus")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -99,7 +99,7 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
 
 ### Cast Resin Busway (CRB)
 **Application:** Chemical plants, coastal areas, outdoor risers, and harsh environments.
-![Wetown CRB System](images/wetown/crb-layout.png "Wetown Cast Resin Busway")
+![Wetown CRB System](/elecpower.io/images/wetown/crb-layout.png "Wetown Cast Resin Busway")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -118,7 +118,7 @@ To ensure the stable operation of the IPB system, Wetown provides a complete set
 
 ### Insulated Copper Tube Busbar (PJTM)
 **Application:** Space-constrained industrial substations and switchgear connections.
-![Wetown PJTM System](images/wetown/pjtm-layout.png "Wetown Insulated Copper Tube Busbar")
+![Wetown PJTM System](/elecpower.io/images/wetown/pjtm-layout.png "Wetown Insulated Copper Tube Busbar")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -142,7 +142,7 @@ Wetown's comprehensive transformer product line leverages advanced manufacturing
 ### Dry-Type Transformers (10-35kV)
 **Application:** Commercial buildings, data centers, industrial facilities, and renewable energy projects requiring fire-safe, environmentally friendly solutions.
 
-![Wetown Dry-Type Transformer](images/wetown/transform.PNG "Wetown Dry-Type Transformer")
+![Wetown Dry-Type Transformer](/elecpower.io/images/wetown/transform.PNG "Wetown Dry-Type Transformer")
 
 #### Technical Specifications
 | Parameter | Value |
@@ -230,7 +230,7 @@ Wetown provides comprehensive energy storage solutions leveraging complete suppl
 ### Grid-Side Energy Storage
 **Application:** Peak shaving, frequency regulation, renewable energy integration, grid stabilization for utility-scale deployments.
 
-![Wetown Grid-Side Energy Storage](images/wetown/energy storage.PNG "Wetown Grid-Side Energy Storage System")
+![Wetown Grid-Side Energy Storage](/elecpower.io/images/wetown/energy storage.PNG "Wetown Grid-Side Energy Storage System")
 
 #### Technical Specifications
 | Parameter | Value |
