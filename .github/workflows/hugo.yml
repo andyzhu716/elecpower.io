@@ -40,6 +40,9 @@ jobs:
           cd themes/hugoplate
           npm install
 
+      - name: Install TailwindCSS CLI
+        run: npm install -g tailwindcss
+
       - name: Build with Hugo
         run: hugo --minify
 
