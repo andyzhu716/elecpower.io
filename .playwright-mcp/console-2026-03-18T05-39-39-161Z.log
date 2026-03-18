@@ -1,0 +1,7 @@
+[    2691ms] [ERROR] Failed to load resource: the server responded with a status of 404 () @ https://github.com/andyzhu716/elecpower.io/settings/pages:0
+[   17333ms] [WARNING] The resource https://github.githubassets.com/assets/global-banner-disable-c5d230875ac0a28a.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://github.com/andyzhu716/elecpower.io/settings/pages:0
+[   26983ms] [WARNING] The resource https://github.githubassets.com/assets/global-banner-disable-c5d230875ac0a28a.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://github.com/andyzhu716/elecpower.io/settings/pages:0
+[   30489ms] [WARNING] The resource https://github.githubassets.com/assets/global-banner-disable-c5d230875ac0a28a.js was preloaded using link preload but not used within a few seconds from the window's load event. Please make sure it has an appropriate `as` value and it is preloaded intentionally. @ https://github.com/andyzhu716/elecpower.io/settings/pages:0
+[  245560ms] [ERROR] Failed to load resource: net::ERR_NETWORK_CHANGED @ https://collector.github.com/github/collect:0
+[  356387ms] [ERROR] AbortError: The user aborted a request. @ https://github.githubassets.com/assets/26533-2961d590db2a09c3.js:15
+[  356396ms] The user aborted a request.

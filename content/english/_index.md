@@ -8,7 +8,7 @@ description: "Wetown Electric Group (688226) is a world-class provider of High V
 banner:
   title: "Wetown: Leading Power Distribution & New Energy Solutions"
   content: "Wetown Electric Group (Stock Code: 688226) is a premier global manufacturer specializing in High Voltage Busbar Systems, Energy Storage, and Photovoltaic Materials. We deliver reliable power distribution solutions for Power Generation, Industrial Manufacturing, Data Centers, and Rail Transit worldwide."
-  image: "/images/wetown/company2.png"
+  image: "images/wetown/company2.png"
   button:
     enable: true
     label: "Tech Insight"
@@ -17,7 +17,7 @@ banner:
 # Features
 features:
   - title: "Core Products: High & Medium Voltage Busbar Systems"
-    image: "/images/wetown/product1.png"
+    image: "images/wetown/product1.png"
     content: "Wetown is a leading manufacturer of comprehensive busbar systems, providing reliable power transmission solutions for power plants, data centers, and industrial facilities."
     bulletpoints:
       - "**High-Voltage Isolated Phase Bus (IPB):** Continuous enclosure design for generator-to-transformer connections (up to 30,000A+), featuring 99.9% shielding efficiency, elimination of phase-to-phase faults, and prevention of supporting steel structure heating."
@@ -35,8 +35,8 @@ features:
       link: "/products"
 
   - title: "Global Success Stories"
-    image: "/images/wetown/case3.png"
-    image2: "/images/wetown/case1.png"
+    image: "images/wetown/case3.png"
+    image2: "images/wetown/case1.png"
     content: "Our systems power the world's most iconic infrastructure and critical facilities, demonstrating engineering excellence across various industries."
     bulletpoints:
       - "**International Presence:** Singapore Marina Bay Sands, Kuwait International Airport, Trump Tower (Philippines), and major power projects in India, Indonesia, and Russia."
@@ -49,7 +49,7 @@ features:
       link: "/applications"
 
   - title: "Why Choose Wetown"
-    image: "/images/wetown/nengli.png"
+    image: "images/wetown/nengli.png"
     content: "We adhere to the highest international standards, leveraging our advanced R&D and intelligent manufacturing capabilities to ensure safety, durability, and operational excellence."
     bulletpoints:
       - "**Full Industry Chain Integration:** From raw material production and surface treatment to precision manufacturing and turnkey installation, ensuring total quality control across the lifecycle."

@@ -1,0 +1,4 @@
+[    2879ms] TypeError: Cannot read properties of undefined (reading 'endIndex')
+    at eR (https://github.githubassets.com/assets/workflow-runs-5462a295758b1c48.js:133:2038)
+    at eU (https://github.githubassets.com/assets/workflow-runs-5462a295758b1c48.js:133:3770)
+    at add (https://github.githubassets.com/assets/workflow-runs-5462a295758b1c48.js:135:1943)
