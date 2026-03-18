@@ -41,10 +41,13 @@ jobs:
           npm install
 
       - name: Install TailwindCSS CLI
-        run: npm install -g tailwindcss
+        run: |
+          npm install -g @tailwindcss/cli
 
       - name: Build with Hugo
         run: hugo --minify
+        env:
+          NODE_PATH: "${{ github.workspace }}/themes/hugoplate/node_modules"
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
