@@ -53,7 +53,7 @@ For energy-intensive industries, Wetown provides **Non-Segregated Phase Bus (NSP
 
 Wetown's engineering excellence is visible in some of the world's most iconic structures, providing safe and compact power distribution.
 
-![Global Landmarks](/elecpower.io/images/wetown/case2.png "Wetown projects include the Hong Kong-Zhuhai-Macao Bridge and Beijing Daxing International Airport")
+![Global Landmarks](images/wetown/case2.png "Wetown projects include the Hong Kong-Zhuhai-Macao Bridge and Beijing Daxing International Airport")
 
 ### Transport & Aviation
 - **Beijing Daxing International Airport:** Powering the world's largest single-terminal airport.
@@ -84,7 +84,7 @@ Selected benchmark projects from Wetown's extensive global portfolio.
 
 ### Project References by Region
 
-![International Project References](/elecpower.io/images/wetown/haiwaiyeji.png "Wetown Global Project Footprint")
+![International Project References](images/wetown/haiwaiyeji.png "Wetown Global Project Footprint")
 
 #### Southeast Asia
 - **Vietnam:**
