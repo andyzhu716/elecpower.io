@@ -1,6 +1,6 @@
 ---
-title: "Wetown Core Products"
-description: "Comprehensive guide to Wetown's high-performance busbar systems: IPB, SPB, NSPB, and Cast Resin Busway (CRB) for power generation and industrial applications."
+title: "IPB, Busbar Systems, Cast Resin Busway & Power Transformers | Wetown Products"
+description: "Explore Wetown's core products including IPB, NSPB, SPB, cast resin busway, insulated copper tube busbar, power transformers, and energy storage systems for power and industrial applications."
 layout: "faq"
 ---
 
