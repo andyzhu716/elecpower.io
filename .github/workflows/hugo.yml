@@ -45,7 +45,7 @@ jobs:
           npm install -g @tailwindcss/cli
 
       - name: Build with Hugo
-        run: hugo --minify
+        run: hugo --minify --baseURL "https://www.elecpower.cn/"
         env:
           NODE_PATH: "${{ github.workspace }}/themes/hugoplate/node_modules"
 
