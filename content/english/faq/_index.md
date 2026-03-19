@@ -1,44 +1,46 @@
 ---
-title: "FAQ"
-description: "Expert answers to common questions about Wetown busbar systems, including IPB, NSPB, SPB, and specialized insulation systems."
+title: "Busbar Systems FAQ | IPB, NSPB, Condensation Protection & Selection Guide | Wetown"
+description: "Explore Wetown’s FAQ on isolated phase bus (IPB), non-segregated phase bus (NSPB), busbar system selection, monitoring, and anti-condensation solutions for power plants and industrial projects."
 layout: "faq"
 ---
 
-Expert technical insights into Wetown's high-performance busbar solutions, including IPB, NSPB, SPB, and specialized insulation systems.
+This FAQ page answers common questions about enclosed busbar systems used in power plants, substations, and industrial power distribution projects. It covers isolated phase bus (IPB), non-segregated phase bus (NSPB), system selection, monitoring, and anti-condensation protection.
 
 ## Isolated Phase Bus (IPB)
 
-### What is a Wetown Isolated Phase Bus (IPB) and its primary function?
-A **Wetown Isolated Phase Bus (IPB)** is a high-current metal-enclosed conductor system (up to 30,000A+) used to connect generators to step-up transformers in power plants. Its primary function is to provide maximum safety by housing each phase in a separate, electrically isolated aluminum enclosure, achieving **99.9% electromagnetic shielding efficiency**.
+### What is isolated phase bus?
+Isolated phase bus, or IPB, is a metal-enclosed bus system in which each phase conductor is installed in its own separate metallic enclosure. It is widely used in generator outlet circuits for medium- and large-capacity power plants.
 
-### How does Wetown IPB prevent phase-to-phase faults?
-Wetown IPB prevents phase-to-phase faults by utilizing **absolute phase isolation**, where each conductor is surrounded by its own grounded enclosure. This design ensures that a fault can only occur between a phase and the grounded enclosure (phase-to-ground), which is much easier to manage and protects the system from catastrophic inter-phase short circuits.
+### Where is IPB typically used?
+IPB is commonly used between the generator and the main transformer. It can also be used for connections to auxiliary transformers, excitation transformers, PT cabinets, and related branch circuits.
 
-### What are the benefits of the continuous enclosure design in Wetown IPB?
-The **continuous enclosure design** in Wetown IPB allows induced currents to flow in the opposite direction of the conductor current, effectively neutralizing external magnetic fields. This prevents electromagnetic heating of nearby steel structures and eliminates interference with sensitive control equipment.
+### Why is IPB used in power plants?
+IPB is suitable for high-current applications and provides strong electromagnetic shielding, reliable enclosure protection, and stable long-term operation in generator-transformer circuits.
 
-## Enclosed Bus Systems (NSPB & SPB)
+### What are the main components of an IPB system?
+A complete IPB system may include main bus sections, branch bus sections, generator connection structures, transformer connection structures, wall penetration structures, support steel structures, monitoring units, and anti-condensation devices.
 
-### What is the difference between Wetown NSPB and SPB systems?
-The difference between Wetown **Non-Segregated Phase Bus (NSPB)** and **Segregated Phase Bus (SPB)** lies in the internal barrier configuration:
-- **NSPB:** All three phase conductors are housed in a single common enclosure without internal barriers, offering a cost-effective and compact solution.
-- **SPB:** All phases share a common enclosure but are separated by physical metal barriers, providing an extra layer of protection against phase-to-phase faults while remaining more space-efficient than IPB.
+## Non-Segregated Phase Bus (NSPB)
 
-### Where are Wetown NSPB and SPB systems typically applied?
-These systems are typically applied in **power plant auxiliary circuits**, industrial substations, and large-scale manufacturing facilities where space is at a premium but high short-circuit withstand strength (up to 100kA+) is required.
+### What is non-segregated phase bus?
+Non-segregated phase bus, or NSPB, is a metal-enclosed bus system in which multiple phase conductors are arranged in a shared or less isolated enclosure structure.
 
-## Cast Resin Busway (CRB)
+### Where is NSPB typically used?
+NSPB is often used in auxiliary power systems, medium-voltage distribution, substations, and industrial power distribution projects where compact routing is important.
 
-### What is a Wetown Cast Resin Busway (CRB) and its protection rating?
-A **Wetown Cast Resin Busway (CRB)** is a maintenance-free power distribution system where the conductors are fully encapsulated in a high-performance epoxy resin. It features an **IP68 protection rating**, making it completely dust-tight and capable of continuous immersion in water.
+### What is the difference between NSPB and IPB?
+The key difference is the degree of phase separation. IPB uses separate enclosures for each phase, while NSPB uses a more compact arrangement with less physical separation.
 
-### Is Wetown CRB suitable for hazardous or outdoor environments?
-Yes, Wetown CRB is specifically engineered for **harsh environments**, featuring superior fire resistance (90-180 minutes), chemical corrosion resistance, and high mechanical strength. It is the preferred choice for chemical plants, coastal installations, and outdoor vertical risers in high-humidity areas.
+## Selection and Protection
 
-## Insulated Copper Tube Busbar (PJTM)
+### How do I choose between IPB and NSPB?
+The choice depends on the application, voltage level, current level, layout constraints, and equipment connection requirements. IPB is generally used for generator outlet circuits, while NSPB is often used for auxiliary and medium-voltage distribution.
 
-### What are the technical advantages of Wetown PJTM Insulated Copper Tube Busbars?
-**Wetown PJTM Insulated Copper Tube Busbars** provide superior **skin effect performance** due to their hollow circular geometry, which ensures uniform current distribution and reduces power losses. They offer significantly higher mechanical strength and a more compact installation footprint compared to traditional cable systems.
+### What information is needed for busbar system selection?
+Typical selection inputs include rated voltage, rated current, short-circuit level, system frequency, equipment arrangement, routing path, environmental conditions, required protection level, and monitoring requirements.
 
-### How does the shield-insulation design in PJTM improve safety?
-The **shield-insulation design** in PJTM incorporates a grounded shielding layer within the insulation structure, which ensures the electric field is uniformly distributed and keeps the surface potential at zero. This allows for safe human contact during operation and permits closer spacing between phases in space-constrained substations.
+### Why is condensation a concern in enclosed bus systems?
+Condensation can affect insulation performance and long-term reliability, especially in humid climates, coastal areas, or during start-stop operating cycles.
+
+### How can condensation be prevented inside busbar systems?
+Common solutions include controlled air circulation drying, dehumidification, and micro-positive pressure protection to reduce the entry of moisture.
