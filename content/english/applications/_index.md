@@ -1,6 +1,6 @@
 ---
-title: "Applications"
-description: "Wetown busbar systems power the world's most critical infrastructure, from 1000MW power plants to international landmarks."
+title: "Power Plant, Industrial & Infrastructure Busbar Applications | Wetown"
+description: "See how Wetown busbar systems are used in power plants, hydropower, petrochemical projects, data centers, transport hubs, and landmark infrastructure worldwide."
 layout: "faq"
 ---
 
