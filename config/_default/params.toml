@@ -62,10 +62,10 @@ content = "<span class='text-center block'>♥️ Loving Hugoplate? <a class='un
 # seo meta data for OpenGraph / Twitter Card
 # seo module: https://github.com/gethugothemes/hugo-modules/tree/master/seo-tools/basic-seo
 [metadata]
-keywords = ["Boilerplate", "Hugo"]
-description = "Hugo & Tailwindcss Starter"
-author = "zeon.studio"
-twitter = "zeon_studio"
+keywords = ["IPB", "isolated phase bus", "busbar systems", "Wetown Electric", "energy storage", "power distribution", "cast resin busway", "power transformer"]
+description = "Wetown Electric is a leading manufacturer of IPB, busbar systems, cast resin busway, power transformers, and energy storage solutions for global industrial and power projects."
+author = "Wetown Electric Group"
+twitter = ""
 image = "images/og-image.png"
 
 
