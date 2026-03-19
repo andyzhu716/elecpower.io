@@ -1,8 +1,8 @@
 ---
 # Meta Data
-title: "Wetown Electric Group - Global Power Distribution & Energy Storage Solutions"
-meta_title: "Wetown Electric - Leading Manufacturer of IPB, Busbar Systems & Energy Storage"
-description: "Wetown Electric Group (688226) is a world-class provider of High Voltage Busbars (IPB/SPB), Energy Storage Systems (ESS), and PV Materials for power plants and industry."
+title: "IPB Manufacturer | Busbar Systems, Cast Resin Busway & Energy Storage | Wetown Electric"
+meta_title: "IPB Manufacturer | Busbar Systems, Cast Resin Busway & Energy Storage | Wetown Electric"
+description: "Wetown Electric is a leading manufacturer of IPB, isolated phase bus, busbar systems, cast resin busway, power transformers, and energy storage solutions for power plants, industry, and infrastructure projects worldwide."
 
 # Banner
 banner:
