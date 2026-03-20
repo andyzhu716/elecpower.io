@@ -6,9 +6,14 @@
       "link": "https://www.linkedin.com/in/andy-zhu-2ba4ba356/"
     },
     {
+      "name": "x",
+      "icon": "fab fa-x-twitter",
+      "link": "https://x.com/AndyZhu1440905"
+    },
+    {
       "name": "github",
       "icon": "fab fa-github",
-      "link": "https://www.github.com/"
+      "link": "https://github.com/andyzhu716"
     }
   ]
 }
