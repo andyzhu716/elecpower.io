@@ -44,6 +44,14 @@ The choice between IPB and Enclosed Busbar depends on:
 - **Maintenance access**: IPB requires individual enclosure access, while Enclosed Busbar allows shared access
 - **Cost considerations**: IPB has higher material and installation costs due to separate enclosures
 
+## Quick Selection Logic
+
+Use **IPB** when the application is a generator outlet circuit or another high-current plant interconnection where stronger phase isolation and shielding are required. Use **busbar trunking** when the project is mainly focused on compact building or facility distribution with modular tap-off flexibility.
+
+## What Information Helps Compare the Two Faster?
+
+It helps to provide system voltage, rated current, installation space, project type, whether the position is generator-side or building-side, and the main priority among isolation, compactness, and maintenance access.
+
 ## Key Takeaway
 
 > **Key Takeaway**: IPB delivers superior phase isolation and reduced electromagnetic coupling for high-current plant interconnections. Busbar Trunking optimizes space and modularity for building and facility distribution. Selection should consider fault tolerance requirements, space, and maintenance access.
