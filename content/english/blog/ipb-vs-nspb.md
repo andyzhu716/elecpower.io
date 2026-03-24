@@ -18,3 +18,25 @@ NSPB is a metal-enclosed bus system in which multiple phase conductors are arran
 ## Main Difference
 
 The main difference is the degree of phase separation: **IPB uses separate enclosures for each phase, while NSPB uses a more compact shared arrangement.**
+
+## Quick Comparison Table
+
+| Item | IPB | NSPB |
+|---|---|---|
+| Phase arrangement | Separate enclosure for each phase | Shared / less isolated enclosure arrangement |
+| Typical use | Generator outlet circuit | Auxiliary and medium-voltage distribution |
+| Space requirement | Larger | More compact |
+| Current application | Higher current projects | Medium to high, depending on design |
+| Main priority | Isolation and shielding | Compact layout and flexibility |
+
+## Which One Is Usually Better for Generator Connections?
+
+For generator-to-transformer connections in medium- and large-capacity power plants, IPB is usually the preferred choice because stronger phase isolation and shielding are more important in that position.
+
+## Which One Is Usually Better for Auxiliary Systems?
+
+For plant auxiliary systems and medium-voltage distribution, NSPB is often a practical choice because it is more compact and easier to integrate with the surrounding equipment layout.
+
+## What Information Helps Make the Comparison Faster?
+
+It helps to provide project type, voltage level, rated current, short-circuit level, layout drawing, installation environment, and the exact position of the bus system in the electrical scheme.

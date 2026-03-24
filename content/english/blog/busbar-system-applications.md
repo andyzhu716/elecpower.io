@@ -23,6 +23,16 @@ Heavy manufacturing, chemical plants, and data centers require robust power dist
 
 Large-scale commercial complexes and high-rise buildings utilize **Wetown Busbar Trunking Systems** (often referred to as Busways) for vertical power distribution (rising mains). These compact, modular systems save valuable shaft space compared to traditional cabling and provide distributed tap-off points for each floor.
 
+## Quick Application Mapping
+
+| Facility Type | Common Busbar Solution |
+|---|---|
+| Large power plant generator circuit | IPB |
+| Power plant auxiliary system | NSPB / SPB |
+| Industrial medium-voltage distribution | NSPB |
+| High-rise building distribution | Busbar trunking |
+| Harsh-environment installation | Cast resin busway |
+
 ## Key Considerations
 
 The selection of busbar systems for different applications depends on:
@@ -37,3 +47,7 @@ The selection of busbar systems for different applications depends on:
 System design and installation should strictly reference international standards:
 - **IEEE C37.23**: Standard for Metal-Enclosed Bus (IPB, SPB, NSPB)
 - **IEC 61439-6 / UL 857**: Standard for Low-Voltage Busbar Trunking Systems (Busways)
+
+## What Information Helps Match the Right Application Faster?
+
+It helps to provide facility type, voltage level, rated current, installation environment, layout constraints, and whether the system is for generator connection, auxiliary power, or building distribution.
