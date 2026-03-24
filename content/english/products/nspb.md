@@ -21,7 +21,7 @@ It is widely used in power plants, substations, and industrial facilities where 
 Wetown NSPB systems can be used in:
 
 - Auxiliary transformer connections
-n- Medium-voltage distribution systems
+- Medium-voltage distribution systems
 - Power plant auxiliary circuits
 - Industrial power distribution networks
 - Substation bus connections
@@ -101,3 +101,7 @@ Wetown provides enclosed busbar solutions with a focus on engineering practicali
 ## Looking for an NSPB solution for your project?
 
 Contact Wetown for technical consultation, layout review, and product selection support.
+
+### Project inquiry checklist
+
+For faster technical review, it helps to provide voltage level, rated current, single line diagram, layout drawing, installation environment, and project stage.

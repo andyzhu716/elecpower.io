@@ -22,3 +22,11 @@ The working principle of IPB is straightforward: it carries electrical power thr
 ## Main Components of an IPB System
 
 Common components include main bus sections, branch bus sections, generator connection structures, transformer connection structures, wall penetration structures, support steel structures, monitoring units, and anti-condensation devices.
+
+## Why Is IPB Used Instead of Other Busbar Arrangements?
+
+IPB is often chosen for generator-transformer connections because it offers strong phase isolation, high current-carrying capability, and reliable shielding performance in demanding power plant environments.
+
+## What Information Helps Start Technical Review Faster?
+
+For early-stage technical communication, it helps to provide voltage level, rated current, single line diagram, layout drawing, installation environment, and project stage.

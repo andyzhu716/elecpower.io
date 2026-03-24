@@ -135,3 +135,7 @@ If required, we can also support customers with technical discussions around lay
 ## Need an IPB solution for your project?
 
 Contact Wetown for technical consultation, layout review, and product selection support.
+
+### Project inquiry checklist
+
+For faster technical review, it helps to provide voltage level, rated current, single line diagram, layout drawing, installation environment, and project stage.

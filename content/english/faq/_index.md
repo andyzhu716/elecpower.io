@@ -44,3 +44,6 @@ Condensation can affect insulation performance and long-term reliability, especi
 
 ### How can condensation be prevented inside busbar systems?
 Common solutions include controlled air circulation drying, dehumidification, and micro-positive pressure protection to reduce the entry of moisture.
+
+### What information helps start a quotation or technical review faster?
+It is helpful to provide project type, voltage level, rated current, single line diagram, layout drawing, installation environment, and current project stage.
