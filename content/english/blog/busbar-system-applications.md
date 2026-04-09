@@ -2,10 +2,13 @@
 title: "Where Are Busbar Systems Commonly Used?"
 description: "Overview of busbar system applications across different facility types for power distribution."
 date: 2026-03-12
+lastmod: 2026-04-09
 draft: false
 tags: ["busbar", "power distribution", "electrical equipment"]
 categories: ["Technical Guide"]
 ---
+
+> **This article provides a high-level overview. For comprehensive, industry-by-industry busbar selection guidance, see the complete technical guide: [Busbar System Applications by Industry: Selection Guide for Engineers](./busbar-system-applications-by-industry.md)**
 
 # Where Are Busbar Systems Commonly Used?
 

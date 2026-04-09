@@ -34,3 +34,10 @@ In many projects, the most practical approach is to combine enclosure sealing, c
 ## What Information Helps Technical Review Faster?
 
 For early technical review, it helps to provide installation environment, local climate characteristics, operating pattern, enclosure arrangement, and whether monitoring or drying devices are already planned.
+
+---
+
+## Complete Maintenance and Troubleshooting Reference
+
+For a comprehensive engineering guide covering the full maintenance lifecycle — inspection schedules, thermal imaging, insulation resistance testing, partial discharge monitoring, fault diagnosis, torque verification, and spares management:
+> [Busbar System Maintenance and Troubleshooting: Engineer's Complete Handbook](./busbar-maintenance-troubleshooting-engineers-handbook.md)
