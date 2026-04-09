@@ -12,7 +12,7 @@
     "autoprefixer": "^10.4.27",
     "postcss": "^8.5.8",
     "tailwind-bootstrap-grid": "^7.0.0",
-    "tailwindcss": "^4.2.1"
+    "tailwindcss": "^4.2.2"
   },
   "main": "index.js",
   "keywords": [],
@@ -21,6 +21,7 @@
   "type": "commonjs",
   "dependencies": {
     "@tailwindcss/aspect-ratio": "^0.4.2",
+    "@tailwindcss/cli": "^4.2.2",
     "@tailwindcss/forms": "^0.5.11"
   }
 }
