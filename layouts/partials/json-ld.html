@@ -1,0 +1,6 @@
+{{- $jsonld := .Params.json_ld -}}
+{{- if $jsonld -}}
+<script type="application/ld+json">
+{{ $jsonld | jsonify | safeJS }}
+</script>
+{{- end -}}
