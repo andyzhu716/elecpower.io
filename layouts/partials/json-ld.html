@@ -1,6 +1,241 @@
-{{- $jsonld := .Params.json_ld -}}
-{{- if $jsonld -}}
-<script type="application/ld+json">
-{{ $jsonld | jsonify | safeJS }}
-</script>
+{{- /* ================================================================
+     ElecPower SEO/GEO: Hugo-native JSON-LD Schema Generator
+     Outputs:
+       - Organization + WebSite (homepage)
+       - BreadcrumbList (all non-home pages)
+       - Article (blog posts)
+       - CollectionPage + ItemList (section/taxonomy/term list pages)
+       - FAQPage (faq pages)
+     ================================================================ */ -}}
+
+{{- $schema_graph := slice -}}
+{{- $baseURL := site.BaseURL | absURL -}}
+
+{{- /* ── 1. Organization + WebSite Schema (homepage only) ── */ -}}
+{{- if .IsHome -}}
+{{- $org := dict
+  "@context" "https://schema.org"
+  "@type" "Organization"
+  "name" "Wetown Electric (DAQO)"
+  "alternateName" (slice "威腾电气" "DAQO封闭母线")
+  "url" $baseURL
+  "logo" (dict "@type" "ImageObject" "url" (printf "%simages/logo.png" $baseURL))
+  "contactPoint" (dict "@type" "ContactPoint"
+    "telephone" "+86-138-0529-1038"
+    "email" "andyzhu716@gmail.com"
+    "contactType" "Sales"
+    "areaServed" "CN"
+    "availableLanguage" (slice "Chinese" "English"))
+  "sameAs" (slice
+    "https://www.linkedin.com/company/daqo"
+    "https://github.com/andyzhu716")
+  "address" (dict "@type" "PostalAddress"
+    "addressCountry" "CN"
+    "addressRegion" "Jiangsu"
+    "addressLocality" "Zhenjiang")
+-}}
+{{- $website := dict
+  "@context" "https://schema.org"
+  "@type" "WebSite"
+  "name" site.Title
+  "url" $baseURL
+  "publisher" $org
+  "potentialAction" (dict
+    "@type" "SearchAction"
+    "target" (dict "@type" "EntryPoint" "urlTemplate" (printf "%ssearch/?q={search_term_string}" $baseURL))
+    "query-input" "required name=search_term_string"
+  )
+-}}
+{{- $schema_graph = $schema_graph | append $org | append $website -}}
 {{- end -}}
+
+{{- /* ── 2. BreadcrumbList (all non-home pages) ── */ -}}
+{{- if and (not .IsHome) .CurrentSection -}}
+{{- $crumbs := slice (dict "@type" "ListItem" "position" 1 "name" "Home" "item" $baseURL) -}}
+{{- $pos := 2 -}}
+
+{{- /* Section crumb */ -}}
+{{- $secName := .CurrentSection.Title -}}
+{{- $secURL := "" -}}
+{{- if eq (lower .CurrentSection.Title) "blog" }}
+  {{- $secName = "Blog" }}
+  {{- $secURL = printf "%sblog/" $baseURL }}
+{{- else if eq (lower .CurrentSection.Title) "faq" }}
+  {{- $secName = "FAQ" }}
+  {{- $secURL = printf "%sfaq/" $baseURL }}
+{{- else }}
+  {{- $secURL = .CurrentSection.RelPermalink | absURL }}
+{{- end }}
+{{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" $secName "item" $secURL) -}}
+{{- $pos = add $pos 1 -}}
+
+{{- /* Category / grandparent crumb */ -}}
+{{- $catName := "" -}}
+{{- $catURL := "" -}}
+{{- $cats := $.Params.categories -}}
+{{- if and $cats (ne (printf "%T" $cats) "string") }}
+  {{- $catName = index $cats 0 | default "" -}}
+{{- else if $cats }}
+  {{- $catName = $cats -}}
+{{- end }}
+{{- if $catName }}
+  {{- $catURL = printf "%s%s/%s/" $baseURL (lower (replace $.CurrentSection.Title " " "-")) (lower (replace $catName " " "-")) -}}
+{{- else }}
+  {{- with $.Ancestors }}
+    {{- range first 1 . }}
+      {{- $catName = .Title }}
+      {{- $catURL = .RelPermalink | absURL }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if and $catName $catURL }}
+  {{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" $catName "item" $catURL) -}}
+  {{- $pos = add $pos 1 -}}
+{{- end }}
+
+{{- /* Current page crumb */ -}}
+{{- $crumbs = $crumbs | append (dict "@type" "ListItem" "position" $pos "name" $.Title "item" ($.RelPermalink | absURL)) -}}
+
+{{- $breadcrumb := dict "@context" "https://schema.org" "@type" "BreadcrumbList" "itemListElement" $crumbs -}}
+{{- $schema_graph = $schema_graph | append $breadcrumb -}}
+{{- end -}}
+
+{{- /* ── 3. Article Schema (blog posts) ── */ -}}
+{{- if and .IsPage (eq .Type "blog") -}}
+{{- /* Resolve author */ -}}
+{{- $authorName := "ElecPower Team" -}}
+{{- $authorURL := "" -}}
+{{- $authorDesc := "Technical content team for Wetown Electric / DAQO busbar systems" -}}
+{{- with .Params.author }}
+  {{- $authorName = . }}
+{{- end }}
+{{- $safeName := lower (replace $authorName " " "-") }}
+{{- with site.GetPage (printf "english/authors/%s" $safeName) }}
+  {{- $authorURL = .RelPermalink | absURL }}
+  {{- with .Params.description }}
+    {{- $authorDesc = . }}
+  {{- end }}
+{{- end }}
+
+{{- /* Resolve image — check og_image then image */ -}}
+{{- $imageURL := printf "%simages/og-image.png" $baseURL -}}
+{{- with .Params.og_image }}
+  {{- $img := . }}
+  {{- with $.Resources.GetMatch $img }}
+    {{- $imageURL = .Permalink }}
+  {{- end }}
+{{- end }}
+
+{{- /* Category */ -}}
+{{- $catName := "" -}}
+{{- $cats := .Params.categories -}}
+{{- if and $cats (ne (printf "%T" $cats) "string") }}
+  {{- $catName = index $cats 0 | default "" -}}
+{{- else if $cats }}
+  {{- $catName = $cats -}}
+{{- end }}
+
+{{- /* Keywords */ -}}
+{{- $keywords := "" -}}
+{{- with .Params.tags }}
+  {{- $keywords = delimit . ", " }}
+{{- end }}
+
+{{- $article := dict
+  "@context" "https://schema.org"
+  "@type" "Article"
+  "headline" .Title
+  "description" .Description
+  "datePublished" (.Date.Format "2006-01-02T15:04:05-07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")
+  "author" (dict "@type" "Person" "name" $authorName "description" $authorDesc "url" $authorURL)
+  "publisher" (dict "@type" "Organization" "name" "Wetown Electric (DAQO)" "url" $baseURL
+    "logo" (dict "@type" "ImageObject" "url" (printf "%simages/logo.png" $baseURL)))
+  "image" (dict "@type" "ImageObject" "url" $imageURL)
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" (.RelPermalink | absURL))
+  "keywords" $keywords
+  "articleSection" $catName
+  "inLanguage" "en-US"
+  "isAccessibleForFree" true
+  "speakable" (dict "@type" "SpeakableSpecification" "cssSelector" (slice "article h1" "article p:first-of-type"))
+-}}
+{{- $schema_graph = $schema_graph | append $article -}}
+{{- end -}}
+
+{{- /* ── 4. CollectionPage Schema (list pages: taxonomy, term, section) ── */ -}}
+{{- /* Triggered on: /categories/, /categories/<term>/, /tags/, /tags/<term>/, /blog/, etc. */ -}}
+{{- /* Use .Kind — taxonomy/term pages AND section list pages (.Kind = "section") */ -}}
+{{- if or (eq .Kind "taxonomy") (eq .Kind "term") (eq .Kind "section") -}}
+{{- $taxonomyName := .Data.Plural -}}
+{{- /* .Data.SingularName only exists on taxonomy page, not term pages — fallback */ -}}
+{{- if and .Data.SingularName (not (eq .Data.SingularName "")) }}
+  {{- $taxonomyName = .Data.SingularName -}}
+{{- end }}
+{{- $itemList := slice -}}
+{{- range $i, $p := .Data.Pages }}
+  {{- $itemList = $itemList | append (dict
+    "@type" "ListItem"
+    "position" (add $i 1)
+    "url" ($p.RelPermalink | absURL)
+    "name" $p.Title
+  ) }}
+{{- end }}
+{{- $colDesc := "" -}}
+{{- with .Description }}
+  {{- $colDesc = . }}
+{{- end }}
+{{- if and (not $colDesc) (eq (len $itemList) 0) }}
+  {{- $colDesc = printf "Browse all %s on %s" $taxonomyName site.Title }}
+{{- else if (not $colDesc) }}
+  {{- $colDesc = printf "Browse %s %s articles" (string (len $itemList)) $taxonomyName }}
+{{- end }}
+{{- $collection := dict
+  "@context" "https://schema.org"
+  "@type" "CollectionPage"
+  "name" .Title
+  "description" $colDesc
+  "url" (.RelPermalink | absURL)
+  "numberOfItems" (len $itemList)
+  "mainEntity" (dict
+    "@type" "ItemList"
+    "numberOfItems" (len $itemList)
+    "itemListElement" $itemList
+  )
+-}}
+{{- $schema_graph = $schema_graph | append $collection -}}
+{{- end -}}
+
+{{- /* ── 5. FAQPage Schema (faq pages) ── */ -}}
+{{- if and .IsPage (eq .Type "faq") -}}
+{{- $raw := .RawContent -}}
+{{- $qaMap := slice -}}
+{{- $blocks := split $raw "## " -}}
+{{- range $i, $block := $blocks }}
+  {{- if gt $i 0 }}
+    {{- $parts := split $block "\n" -}}
+    {{- $q := trim (index $parts 0) " " -}}
+    {{- $aParts := after 1 $parts -}}
+    {{- $a := "" -}}
+    {{- range $aParts }}
+      {{- $a = printf "%s %s" $a . -}}
+    {{- end }}
+    {{- $a = trim $a " " -}}
+    {{- $a = replaceRE ` [ \\t]+` " " $a -}}
+    {{- if and (gt (len $q) 2) (gt (len $a) 2) }}
+      {{- $qaMap = $qaMap | append (dict "@type" "Question" "name" $q
+        "acceptedAnswer" (dict "@type" "Answer" "text" $a)) }}
+    {{- end }}
+  {{- end }}
+{{- end }}
+{{- if gt (len $qaMap) 0 }}
+{{- $faqPage := dict "@context" "https://schema.org" "@type" "FAQPage" "mainEntity" $qaMap }}
+{{- $schema_graph = $schema_graph | append $faqPage }}
+{{- end }}
+{{- end }}
+
+{{- /* ── Output ── */ -}}
+{{- if gt (len $schema_graph) 0 }}
+<script type="application/ld+json">
+{{ $schema_graph | jsonify | safeJS }}
+</script>
+{{- end }}
