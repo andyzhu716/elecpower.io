@@ -589,6 +589,9 @@ For a comprehensive reference to all international standards applicable to busba
 For maintenance and troubleshooting guidance covering inspection schedules, thermal imaging, partial discharge monitoring, and fault diagnosis:
 > [Busbar System Maintenance and Troubleshooting: Engineer's Complete Handbook](./busbar-maintenance-troubleshooting-engineers-handbook.md)
 
+For a dedicated guide to LV busbar trunking used in data centers and commercial facilities — covering open channel vs enclosed busway, tap-off unit design, N+1/2N redundancy, and AI workload power distribution:
+> [Data Center LV Busbar Trunking: Complete Selection and Design Guide](/blog/data-center-lv-busbar-trunking-selection-guide/)
+
 ---
 
-*Last updated: April 9, 2026*
+*Last updated: April 11, 2026*

@@ -570,6 +570,9 @@ For a comprehensive reference to international standards (IEEE C37.23, IEC 61439
 For maintenance and troubleshooting guidance covering inspection schedules, thermal imaging, insulation testing, partial discharge monitoring, and fault diagnosis:
 > [Busbar System Maintenance and Troubleshooting: Engineer's Complete Handbook](./busbar-maintenance-troubleshooting-engineers-handbook.md)
 
+For a dedicated guide to LV busbar trunking for data centers — covering busway ampacity selection, short-circuit coordination, harmonic derating, and AI workload power distribution:
+> [Data Center LV Busbar Trunking: Complete Selection and Design Guide](/blog/data-center-lv-busbar-trunking-selection-guide/)
+
 ---
 
-*Last updated: April 9, 2026*
+*Last updated: April 11, 2026*

@@ -425,6 +425,9 @@ For comprehensive standards and compliance reference covering IEEE C37.23, IEC 6
 For maintenance and troubleshooting guidance covering inspection schedules, thermal imaging, insulation testing, partial discharge monitoring, and fault diagnosis:
 > [Busbar System Maintenance and Troubleshooting: Engineer's Complete Handbook](./busbar-maintenance-troubleshooting-engineers-handbook.md)
 
+For a dedicated deep-dive into LV busbar trunking for data centers — covering open channel vs enclosed architecture, tap-off unit selection, N+1/2N redundancy, harmonic management, AI workload optimization, and liquid cooling integration:
+> [Data Center LV Busbar Trunking: Complete Selection and Design Guide](/blog/data-center-lv-busbar-trunking-selection-guide/) — The authoritative standalone reference for data center power distribution engineers
+
 ---
 
-*Last updated: April 9, 2026*
+*Last updated: April 11, 2026*

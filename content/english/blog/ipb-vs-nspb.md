@@ -40,3 +40,9 @@ For plant auxiliary systems and medium-voltage distribution, NSPB is often a pra
 ## What Information Helps Make the Comparison Faster?
 
 It helps to provide project type, voltage level, rated current, short-circuit level, layout drawing, installation environment, and the exact position of the bus system in the electrical scheme.
+
+For the authoritative IPB technical reference covering all design principles, applications, and selection criteria:
+> [Isolated Phase Busbar (IPB): Complete Technical Guide](/blog/isolated-phase-busbar-ipb-guide/)
+
+For industry-specific application requirements and detailed busbar selection by sector:
+> [Busbar System Applications by Industry: Selection Guide for Engineers](/blog/busbar-system-applications-by-industry/)

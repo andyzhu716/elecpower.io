@@ -56,6 +56,9 @@ It helps to provide system voltage, rated current, installation space, project t
 
 > **Key Takeaway**: IPB delivers superior phase isolation and reduced electromagnetic coupling for high-current plant interconnections. Busbar Trunking optimizes space and modularity for building and facility distribution. Selection should consider fault tolerance requirements, space, and maintenance access.
 
+For a dedicated deep-dive into LV busbar trunking for data centers — covering open channel vs enclosed architecture, tap-off unit selection, N+1/2N redundancy, harmonic management, and AI workload optimization:
+> [Data Center LV Busbar Trunking: Complete Selection and Design Guide](/blog/data-center-lv-busbar-trunking-selection-guide/)
+
 ## Standards Reference
 
 System design and selection should reference applicable standards:

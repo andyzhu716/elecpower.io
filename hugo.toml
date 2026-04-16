@@ -94,7 +94,12 @@ endLevel = 5
 ordered = true
 
 
-########################### Media types ###########################
+############################# Canonify URLs ############################
+# Canonicalize URLs: converts relative URLs to absolute
+# Fixes trailing-slash inconsistencies in internal links
+canonifyURLs = true
+
+############################# Media types ###########################
 [mediaTypes]
 [mediaTypes."application/manifest+json"]
 suffixes = ["webmanifest"]
