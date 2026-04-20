@@ -1,0 +1,14 @@
+{{ "<?xml version=\"1.0\" encoding=\"utf-8\"?>" | safeHTML }}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  {{- range .Data.Pages }}
+  {{- $section := .Section }}
+  {{- if or (eq $section "blog") (eq $section "faq") (eq $section "products") (eq $section "applications") (eq $section "english") }}
+  <url>
+    <loc>{{ .Permalink }}</loc>
+    <lastmod>{{ .Lastmod.Format "2006-01-02T00:00:00+08:00" }}</lastmod>
+    <changefreq>{{ if .Lastmod.IsZero }}monthly{{ else }}weekly{{ end }}</changefreq>
+  </url>
+  {{- end }}
+  {{- end }}
+</urlset>
