@@ -13,6 +13,8 @@ keywords: ["cast resin busbar", "浇筑母线", "epoxy resin busbar", "cast resi
 
 # Cast Resin Busbar Systems: Complete Technical Guide and Selection
 
+![Cast Resin Busbar System](/images/wetown/crb-layout.png "Cast Resin Busbar System Layout")
+
 Cast resin busbar — commonly referred to as **浇筑母线** in Chinese technical literature — is a fully encapsulated busbar system where each phase conductor is individually cast in epoxy resin, creating a monolithic insulated conductor that requires no additional external insulation.
 
 Cast resin busbar is the premium choice for environments where moisture, corrosive chemicals, dust, or space constraints make conventional air-insulated or oil-filled busbar systems impractical. This article provides engineers with a complete technical reference covering principle, advantages, typical applications, specifications, and selection guidance.
