@@ -34,6 +34,8 @@ Key characteristics of NSPB:
 - Suitable for currents from 1,000A to 6,000A
 - Rated voltage typically up to 40.5 kV
 
+![Wetown NSPB System](/images/wetown/nspb.png "Non-Segregated Phase Busbar System")
+
 ### 1.1 NSPB vs IPB: Key Distinction
 
 For a detailed side-by-side comparison, see our dedicated guide: [IPB vs NSPB: What Is the Difference?](/blog/ipb-vs-nspb/)
@@ -100,6 +102,8 @@ The ampacity of NSPB conductors is determined by:
 2. **Ambient temperature** — Standard rating at 40°C; derating required above
 3. **Installation method** — Horizontal vs vertical, free air vs enclosed
 4. **Dielectric cooling** — Air natural (AN) vs force-cooled (AF)
+
+![NSPB Layout Diagram](/images/wetown/nspb-layout.png "NSPB Typical Layout Diagram")
 
 ---
 
