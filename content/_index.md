@@ -21,8 +21,6 @@ Industrial power distribution solution for facility-wide equipment.
 
 Compact distribution design for space-constrained installations.
 
-{{< latest-articles >}}
-
 ## Applications
 
 ### Power Generation

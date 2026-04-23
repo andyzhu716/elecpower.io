@@ -1,2 +1,17 @@
-# Deployment trigger
-# Deployment trigger
+# Hugo output (generated on every build)
+ /public/
+ /resources/
+ /hugo_build.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Misc
+*.log
+.opencode-task.txt
+content-plan.md
