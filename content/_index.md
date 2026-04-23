@@ -8,6 +8,7 @@ description: "Technical reference for busbar system selection and application. A
 banner:
   title: "Industrial Power Equipment Solutions"
   content: "Technical reference for busbar system selection and application — helping engineers and procurement professionals make informed decisions on IPB, NSPB, cast resin busbar, and related power distribution systems."
+  image: "images/wetown/ipb-layout.png"
   button:
     enable: true
     label: "Browse Technical Guides"
