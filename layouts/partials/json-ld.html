@@ -16,18 +16,17 @@
 {{- $org := dict
   "@context" "https://schema.org"
   "@type" "Organization"
-  "name" "Wetown Electric (DAQO)"
-  "alternateName" (slice "威腾电气" "DAQO封闭母线")
+  "name" "ElecPower"
+  "alternateName" (slice "Industrial Power Equipment")
   "url" $baseURL
   "logo" (dict "@type" "ImageObject" "url" (printf "%simages/logo.png" $baseURL))
   "contactPoint" (dict "@type" "ContactPoint"
-    "telephone" "+86-138-0529-1038"
     "email" "andyzhu716@gmail.com"
     "contactType" "Sales"
     "areaServed" "CN"
     "availableLanguage" (slice "Chinese" "English"))
   "sameAs" (slice
-    "https://www.linkedin.com/company/daqo"
+    "https://www.linkedin.com/in/andy-zhu-2ba4ba356/"
     "https://github.com/andyzhu716")
   "address" (dict "@type" "PostalAddress"
     "addressCountry" "CN"
@@ -103,9 +102,9 @@
 {{- /* ── 3. Article Schema (blog posts) ── */ -}}
 {{- if and .IsPage (eq .Type "blog") -}}
 {{- /* Resolve author */ -}}
-{{- $authorName := "ElecPower Team" -}}
+{{- $authorName := "Andy" -}}
 {{- $authorURL := "" -}}
-{{- $authorDesc := "Technical content team for Wetown Electric / DAQO busbar systems" -}}
+{{- $authorDesc := "Technical author specializing in power busbar systems" -}}
 {{- with .Params.author }}
   {{- $authorName = . }}
 {{- end }}
@@ -149,7 +148,7 @@
   "datePublished" (.Date.Format "2006-01-02T15:04:05-07:00")
   "dateModified" (.Lastmod.Format "2006-01-02T15:04:05-07:00")
   "author" (dict "@type" "Person" "name" $authorName "description" $authorDesc "url" $authorURL)
-  "publisher" (dict "@type" "Organization" "name" "Wetown Electric (DAQO)" "url" $baseURL
+  "publisher" (dict "@type" "Organization" "name" "ElecPower" "url" $baseURL
     "logo" (dict "@type" "ImageObject" "url" (printf "%simages/logo.png" $baseURL)))
   "image" (dict "@type" "ImageObject" "url" $imageURL)
   "mainEntityOfPage" (dict "@type" "WebPage" "@id" (.RelPermalink | absURL))

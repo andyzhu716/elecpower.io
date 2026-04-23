@@ -51,4 +51,4 @@ With a strong track record in international projects, Wetown delivers engineerin
 
 ## Technical Contact
 
-For project inquiries related to IPB, NSPB, SPB, cast resin busway, or enclosed busbar applications, you can also contact **Andy Zhu** at **andyzhu716@gmail.com**.
+For project inquiries related to IPB, NSPB, SPB, cast resin busway, or enclosed busbar applications, you can also contact **Andy** at **andyzhu716@gmail.com**.

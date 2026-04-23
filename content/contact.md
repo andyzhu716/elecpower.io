@@ -250,7 +250,7 @@ textarea.form-control {
       <div class="contact-item">
         <i class="fas fa-user"></i>
         <div>
-          <strong>Andy Zhu (朱帅)</strong><br>
+          <strong>Andy</strong><br>
           Customer Manager
         </div>
       </div>
@@ -272,10 +272,10 @@ textarea.form-control {
       </div>
       
       <div class="contact-item">
-        <i class="fas fa-phone"></i>
+          <i class="fas fa-phone"></i>
         <div>
           <strong>Phone / WhatsApp</strong><br>
-          <a href="tel:+8613805291038">+86 138 0529 1038</a>
+          <span>Available upon request</span>
         </div>
       </div>
       
@@ -283,7 +283,7 @@ textarea.form-control {
         <i class="fab fa-linkedin"></i>
         <div>
           <strong>LinkedIn</strong><br>
-          <a href="https://www.linkedin.com/in/andy-zhu-2ba4ba356/" target="_blank">Andy Zhu</a>
+          <a href="https://www.linkedin.com/in/andy-zhu-2ba4ba356/" target="_blank">Andy</a>
         </div>
       </div>
     </div>
