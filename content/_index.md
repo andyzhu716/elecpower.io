@@ -47,19 +47,37 @@ features:
       link: /products/cast-resin-busbar
 ---
 
-# Core Product Categories
+# Industrial Power Equipment Solutions
 
-## Isolated Phase Bus (IPB)
+Busbar systems and power distribution equipment for industrial applications.
+
+## Core Product Categories
+
+### Isolated Phase Bus (IPB)
 
 Metal-enclosed busbar with isolated phase conductors for high-current applications.
 
-## Enclosed Busbar
+### Enclosed Busbar
 
 Industrial power distribution solution for facility-wide equipment.
 
-## Common Enclosure Bus
+### Common Enclosure Bus
 
 Compact distribution design for space-constrained installations.
+
+## Applications
+
+### Power Generation
+
+Busbar systems connect major electrical components in power generation facilities.
+
+### Industrial Facilities
+
+Power distribution within industrial facilities.
+
+### Commercial Buildings
+
+Power infrastructure for large commercial buildings.
 
 ## Technical References
 
@@ -74,3 +92,7 @@ IPB is a metal-enclosed busbar system where each phase conductor is housed in a 
 **What are the main applications for busbar systems?**
 
 Busbar systems are used in power generation facilities, industrial plants, and large commercial buildings.
+
+## Contact
+
+For technical specifications or engineering questions, contact our team directly.
