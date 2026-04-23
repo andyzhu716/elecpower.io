@@ -4,13 +4,26 @@ description: "Comprehensive maintenance and troubleshooting guide for metal-encl
 date: 2026-04-09
 lastmod: 2026-04-09
 draft: false
-tags: ["maintenance", "troubleshooting", "busbar", "engineering"]
-categories: ["Maintenance", "Engineer Handbook"]
+tags:
+  - busbar maintenance
+  - busbar troubleshooting
+  - thermal imaging busbar
+  - insulation resistance testing
+  - partial discharge monitoring
+  - busbar inspection
+  - IPB maintenance
+  - NSPB maintenance
+  - busway maintenance
+  - predictive maintenance
+  - condition monitoring
+  - busbar fault diagnosis
+  - condensation prevention
+  - busbar spares
+categories:
+  - Technical Guide
+  - Maintenance and Troubleshooting
 featured_image: "images/blog/busbar-maintenance-troubleshooting-engineers-handbook.jpg"
-keywords: ["busbar maintenance", "busbar troubleshooting", "electrical maintenance"]
 ---
-
-
 
 A busbar system that was properly designed, manufactured, and installed will still degrade over time if it is not maintained. The rate of degradation is slow — typically measured in years — but it is real, and it accelerates when the system operates in challenging environments: high ambient temperatures, coastal salt air, chemical process areas, or power plants with frequent load cycling and shutdown-restart sequences.
 

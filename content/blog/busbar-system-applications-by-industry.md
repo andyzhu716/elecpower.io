@@ -4,13 +4,21 @@ description: "Comprehensive guide to busbar system selection across power genera
 date: 2026-04-09
 lastmod: 2026-04-09
 draft: false
-tags: ["applications", "industries", "busbar", "sectors"]
-categories: ["Applications", "Industry Guide"]
+tags:
+  - busbar applications
+  - power plant busbar
+  - industrial busbar
+  - data center power
+  - marine busbar
+  - offshore busbar
+  - busbar selection guide
+  - IPB applications
+  - NSPB applications
+categories:
+  - Technical Guide
+  - Application Guide
 featured_image: "images/blog/busbar-system-applications-by-industry.jpg"
-keywords: ["busbar applications", "busbar industry", "busbar use cases"]
 ---
-
-
 
 Busbar systems are not universal — every industry and application imposes a distinct combination of electrical, environmental, regulatory, and operational requirements that determines which busbar type, enclosure specification, and installation practice is appropriate. A busbar system selected for a 1,000MW nuclear power plant bears little resemblance to one selected for a hyperscale data center or an offshore drilling platform, even though both are technically "high-current power distribution."
 

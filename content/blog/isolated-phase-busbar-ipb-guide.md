@@ -4,14 +4,19 @@ description: "The definitive engineering guide to isolated phase busbar (IPB) sy
 date: 2026-04-09
 lastmod: 2026-04-09
 draft: false
-tags: ["IPB", "isolated phase bus", "guide", "generator"]
-categories: ["IPB Basics", "Technical Guide"]
+tags:
+  - isolated phase bus
+  - IPB
+  - busbar systems
+  - power distribution
+  - electrical engineering
+  - technical guide
+categories:
+  - Technical Guide
+  - Power Systems
 featured_image: "images/blog/isolated-phase-busbar-ipb-guide.jpg"
 og_image: ""
-keywords: ["IPB guide", "isolated phase busbar", "IPB complete guide"]
 ---
-
-
 
 An **isolated phase busbar (IPB)** is a metal-enclosed electrical bus system in which each phase conductor occupies its own separate, grounded metallic housing. This design is the highest-reliability solution for high-current power transmission in critical infrastructure — particularly in power plants, large substations, and heavy industrial facilities where an unplanned outage carries severe financial or safety consequences.
 
@@ -33,7 +38,7 @@ This guide is the definitive technical reference for electrical engineers, EPC c
 3. [IPB vs Other Busbar Types](#3-ipb-vs-other-busbar-types)
 4. [Applications and Industries](#4-applications-and-industries)
 5. [Selection and Sizing Guide](#5-selection-and-sizing-guide)
-6. [Wetown IPB Solutions](#6-wetown-ipb-solutions)
+6. [IPB Solutions Overview](#6-ipb-solutions-overview)
 7. [Related Resources](#7-related-resources)
 8. [Frequently Asked Questions](#8-frequently-asked-questions)
 
@@ -313,8 +318,6 @@ The IPB run in a large thermal plant typically includes:
 - Main bus section (breaker to unit transformer)
 - Branch connections to excitation transformer, neutral grounding equipment, and unit auxiliary transformer
 
-> **Learn more:** [IPB in Thermal Power Plants: Engineering Applications Guide](/blog/ipb-thermal-power-plant-applications/) — Detailed coverage of generator connections, auxiliary systems, civil coordination, and pre-commissioning for thermal units from 300 MW to 1,000 MW.
-
 #### Nuclear Power Plants
 
 Nuclear plants impose the most demanding requirements on IPB systems due to their extremely high reliability requirements and the unique environmental conditions in nuclear containments. IPB in nuclear plants is typically specified to:
@@ -476,13 +479,13 @@ Before issuing a specification or request for quotation, verify that the followi
 
 ---
 
-## 6. Wetown IPB Solutions
+## 6. IPB Solutions Overview
 
-Wetown Electric Group (Stock Code: 688226) is a leading global manufacturer of isolated phase busbar systems with decades of engineering and manufacturing experience serving power plants and heavy industrial facilities worldwide.
+ElecPower Group (Stock Code: 688226) is a leading global manufacturer of isolated phase busbar systems with decades of engineering and manufacturing experience serving power plants and heavy industrial facilities worldwide.
 
 ### 6.1 Product Range
 
-Wetown's IPB product line covers the full range of power plant and industrial applications:
+ElecPower's IPB product line covers the full range of power plant and industrial applications:
 
 | Product | Voltage | Current Rating | Key Applications |
 |---------|---------|---------------|------------------|
@@ -502,7 +505,7 @@ Complete IPB systems require supporting equipment that ensures stable, safe, lon
 
 ### 6.3 Quality and Certification
 
-Wetown's IPB manufacturing is conducted under a comprehensive quality management system certified to ISO 9001, with products tested to IEEE C37.23, IEC 62271-212, and applicable regional standards. Factory testing includes:
+ElecPower's IPB manufacturing is conducted under a comprehensive quality management system certified to ISO 9001, with products tested to IEEE C37.23, IEC 62271-212, and applicable regional standards. Factory testing includes:
 
 - Dielectric withstand testing (power frequency and impulse)
 - Resistance and continuity verification
@@ -511,7 +514,7 @@ Wetown's IPB manufacturing is conducted under a comprehensive quality management
 
 ### 6.4 Global Project Experience
 
-Wetown has supplied IPB systems to power projects across Asia, the Middle East, Africa, and South America, with reference projects ranging from 100MW to 1,000MW+ generating units. Contact the Wetown technical team to discuss your project requirements.
+ElecPower has supplied IPB systems to power projects across Asia, the Middle East, Africa, and South America, with reference projects ranging from 100MW to 1,000MW+ generating units. Contact the ElecPower technical team to discuss your project requirements.
 
 ---
 
@@ -578,7 +581,7 @@ Isolated phase busbar systems are the definitive solution for high-current power
 
 Successful IPB implementation requires careful attention to specification, design coordination, installation quality, and compliance with applicable standards. The investment in proper IPB specification and quality assurance is returned many times over in the form of decades of reliable, maintenance-light service.
 
-For project-specific technical consultation, IPB pricing, or to discuss your power distribution requirements, contact the Wetown Electric technical team.
+For project-specific technical consultation, IPB pricing, or to discuss your power distribution requirements, contact the ElecPower technical team.
 
 For a comprehensive reference to all international standards applicable to busbar systems:
 > [Busbar Systems Standards and Compliance: Complete Engineering Guide](./busbar-systems-standards-compliance-guide.md)

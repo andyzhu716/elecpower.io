@@ -4,13 +4,23 @@ description: "Comprehensive reference guide to international busbar system stand
 date: 2026-04-09
 lastmod: 2026-04-09
 draft: false
-tags: ["standards", "IEC", "GB", "IEEE", "compliance"]
-categories: ["Standards", "Compliance"]
+tags:
+  - busbar standards
+  - IEEE C37.23
+  - IEC 61439-6
+  - UL 857
+  - ATEX
+  - IECEx
+  - busbar compliance
+  - type testing
+  - certification
+  - electrical standards
+  - NEC Article 368
+categories:
+  - Technical Guide
+  - Standards and Compliance
 featured_image: "images/blog/busbar-systems-standards-compliance-guide.jpg"
-keywords: ["busbar standards", "IEC 61439", "GB 7251", "IEEE busbar"]
 ---
-
-
 
 Electrical standards exist for a single practical reason: to ensure that equipment performs safely and reliably in service, across all the edge cases and worst-case conditions that no individual manufacturer, engineer, or user can anticipate alone. For busbar systems, this means defining how much current a busbar can carry without overheating, how much fault current it can withstand without mechanical failure, how it should be tested before installation, and what markings and documentation prove it meets those requirements.
 

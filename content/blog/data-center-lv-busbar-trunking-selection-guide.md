@@ -4,14 +4,20 @@ description: "Comprehensive engineering guide to selecting low voltage busbar tr
 date: 2026-04-11
 lastmod: 2026-04-11
 draft: false
-tags: ["data center", "LV busbar", "busbar trunking", "selection"]
-categories: ["Data Center", "Selection Guide"]
+tags:
+  - data center busbar
+  - LV busway
+  - busbar trunking data center
+  - power distribution data center
+  - low voltage busbar
+  - data center infrastructure
+  - busway selection
+categories:
+  - Technical Guide
+  - Engineering Handbook
 featured_image: "images/blog/data-center-lv-busbar-trunking-selection-guide.jpg"
 og_image: ""
-keywords: ["data center busbar", "LV busbar trunking", "data center power"]
 ---
-
-
 
 Modern data centers are among the most power-dense facilities ever built. A single high-density rack can draw 30kW to 100kW — the equivalent of powering 30 to 100 residential homes from a footprint smaller than a parking space. As AI training clusters, GPU farms, and edge computing deployments push power densities ever higher, the electrical distribution infrastructure beneath the floor has become as critical as the IT equipment it supports.
 
@@ -37,7 +43,7 @@ This guide is the definitive technical reference for electrical engineers, data 
 5. [Data Center Power Distribution Architecture](#5-data-center-power-distribution-architecture)
 6. [AI Workloads and High-Density Challenges](#6-ai-workloads-and-high-density-challenges)
 7. [Standards and Compliance](#7-standards-and-compliance)
-8. [Wetown LV Busbar Trunking Solutions](#8-wetown-lv-busbar-trunking-solutions)
+8. [LV Busbar Trunking Solutions](#8-lv-busbar-trunking-solutions)
 9. [Frequently Asked Questions](#9-frequently-asked-questions)
 
 ---
@@ -329,13 +335,13 @@ LV busbar trunking systems for data centers must comply with the following inter
 
 ---
 
-## 8. Wetown LV Busbar Trunking Solutions
+## 8. LV Busbar Trunking Solutions
 
-Wetown Electric Group manufactures a comprehensive range of LV busbar trunking solutions specifically engineered for data center and mission-critical facility applications.
+ElecPower Group manufactures a comprehensive range of LV busbar trunking solutions specifically engineered for data center and mission-critical facility applications.
 
 ### 8.1 LV Series Intelligent Busbar Trunking
 
-The Wetown **LV Series** is a sandwich-construction, open-channel LV busbar trunking system rated from 400A to 6300A. Key features for data center applications:
+The ElecPower **LV Series** is a sandwich-construction, open-channel LV busbar trunking system rated from 400A to 6300A. Key features for data center applications:
 
 - **400A to 1600A current ratings** — standard range for data center branch circuits and main feeders
 - **Sandwich construction** — low impedance (as low as 0.020 mΩ/m for 1600A), minimal external magnetic field
@@ -349,7 +355,7 @@ The Wetown **LV Series** is a sandwich-construction, open-channel LV busbar trun
 
 ### 8.2 Pro B Series — Data Center Dedicated
 
-The Wetown **Pro B Series** is purpose-designed for hyperscale and AI data center deployments. Features include:
+The ElecPower **Pro B Series** is purpose-designed for hyperscale and AI data center deployments. Features include:
 
 - **1600A–6300A main feeder ratings** for large-scale power distribution
 - **200% neutral conductor option** for AI facility harmonic duty
@@ -360,16 +366,16 @@ The Wetown **Pro B Series** is purpose-designed for hyperscale and AI data cente
 
 ### 8.3 GM-D Series — Modular Low-Voltage Trunking
 
-The Wetown **GM-D Series** is a modular enclosed busbar system rated from 100A to 1600A, suitable for:
+The ElecPower **GM-D Series** is a modular enclosed busbar system rated from 100A to 1600A, suitable for:
 - Vertical riser applications in multi-story data centers
 - Edge and micro-data center installations
 - Industrial data center environments requiring higher IP ratings
 
-### 8.4 Why Choose Wetown
+### 8.4 Why Choose ElecPower
 
 - **5G-connected intelligent manufacturing** — automated precision assembly ensures consistent quality across all production runs
 - **Full type-test certification** — all busbar trunking products tested to IEC 61439-6 by accredited laboratories
-- **End-to-end power distribution capability** — LV busway integrated with Wetown transformers, switchgear, UPS integration, and monitoring systems
+- **End-to-end power distribution capability** — LV busway integrated with ElecPower transformers, switchgear, UPS integration, and monitoring systems
 - **Global project references** — deployed in data center projects across Southeast Asia, the Middle East, and Europe
 - **Custom engineering support** — technical application engineers support project specification and detailed design
 
@@ -403,7 +409,7 @@ The busway withstand rating must equal or exceed the maximum available short-cir
 
 ### Can busbar trunking be used with liquid cooling systems in AI data centers?
 
-Yes, but careful coordination is required. Maintain minimum 150mm clearance between cooling pipe joints and live busway conductors. Specify IP30 or higher busway rating in liquid-cooled zones. Wetown provides specific installation guidelines for co-located power and cooling infrastructure, and custom solutions are available for integrated power-and-cooling ceiling plenum designs.
+Yes, but careful coordination is required. Maintain minimum 150mm clearance between cooling pipe joints and live busway conductors. Specify IP30 or higher busway rating in liquid-cooled zones. ElecPower provides specific installation guidelines for co-located power and cooling infrastructure, and custom solutions are available for integrated power-and-cooling ceiling plenum designs.
 
 ### What is the typical lifespan of LV busbar trunking in a data center?
 

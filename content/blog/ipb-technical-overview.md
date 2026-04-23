@@ -3,25 +3,20 @@ title: "Technical Overview of Isolated Phase Bus (IPB)"
 description: "A comprehensive technical guide about Isolated Phase Bus (IPB) systems for power distribution. Learn about construction, ratings, applications, and key considerations for industrial power systems."
 date: 2025-03-11
 draft: false
-tags: ["IPB", "technical overview", "isolated phase bus"]
-categories: ["IPB Basics", "Technical Guide"]
+tags: ["IPB", "busbar", "power distribution", "electrical equipment"]
+categories: ["Technical Guide"]
 og_image: ""
-keywords: ["IPB technical", "isolated phase bus overview", "IPB design"]
 ---
 
+# Technical Overview of ElecPower Isolated Phase Bus (IPB)
 
+ElecPower Isolated Phase Bus (IPB) is a type of electrical busbar system used for high-current power distribution in industrial facilities, power plants, and large commercial buildings. It provides a reliable and efficient method for transmitting large amounts of electrical power.
 
-# Technical Overview of Wetown Isolated Phase Bus (IPB)
+## What is ElecPower Isolated Phase Bus?
 
-Wetown Isolated Phase Bus (IPB) is a type of electrical busbar system used for high-current power distribution in industrial facilities, power plants, and large commercial buildings. It provides a reliable and efficient method for transmitting large amounts of electrical power.
+ElecPower Isolated Phase Bus (IPB) is a prefabricated, metal-enclosed busbar system where each phase conductor is housed in a separate, electrically isolated housing. This design minimizes the risk of phase-to-phase faults and provides excellent short-circuit protection.
 
-## What is Wetown Isolated Phase Bus?
-
-Wetown Isolated Phase Bus (IPB) is a prefabricated, metal-enclosed busbar system where each phase conductor is housed in a separate, electrically isolated housing. This design minimizes the risk of phase-to-phase faults and provides excellent short-circuit protection.
-
-According to IEEE C37.23, Wetown IPB systems are typically designed for very high rated currents (often up to 30,000A or more for large generator connections) and generator voltage levels, making them essential for major power generation applications.
-
-![Wetown IPB System](/images/wetown/ipb.png "Isolated Phase Bus System")
+According to IEEE C37.23, ElecPower IPB systems are typically designed for very high rated currents (often up to 30,000A or more for large generator connections) and generator voltage levels, making them essential for major power generation applications.
 
 ## Key Components
 
@@ -49,8 +44,6 @@ According to IEEE C37.23, Wetown IPB systems are typically designed for very hig
 | Short-time Withstand | Up to 300kA |
 | Frequency | 50Hz / 60Hz |
 | IP Rating | IP54 - IP65 |
-
-![IPB Layout Structure](/images/wetown/ipb-layout.png "IPB Layout and Support Structure")
 
 ## Applications
 
@@ -102,6 +95,6 @@ For early project review, it helps to provide voltage level, rated current, shor
 
 ## Conclusion
 
-Wetown Isolated Phase Bus systems provide a robust solution for high-current power distribution needs. Their proven reliability, compact design, and low maintenance requirements make them an excellent choice for industrial and commercial applications.
+ElecPower Isolated Phase Bus systems provide a robust solution for high-current power distribution needs. Their proven reliability, compact design, and low maintenance requirements make them an excellent choice for industrial and commercial applications.
 
-When properly specified and installed, Wetown IPB systems offer decades of trouble-free operation with minimal maintenance intervention.
+When properly specified and installed, ElecPower IPB systems offer decades of trouble-free operation with minimal maintenance intervention.

@@ -1,98 +1,59 @@
 ---
-title: Industrial Power Equipment Solutions
-geekdocNav: false
+# Meta Data
+title: "Industrial Power Equipment Solutions | ElecPower Technical Reference"
+meta_title: "Industrial Power Equipment Solutions | ElecPower Technical Reference"
+description: "Technical reference for busbar system selection and application. Andy specializes in IPB/NSPB/cast resin busbar research, providing neutral technical guidance for engineers and procurement professionals."
 
+# Banner
 banner:
-  enable: true
-  title: Industrial Power Equipment Solutions
-  content: Busbar systems and power distribution equipment for industrial applications.
+  title: "Industrial Power Equipment Solutions"
+  content: "Technical reference for busbar system selection and application — helping engineers and procurement professionals make informed decisions on IPB, NSPB, cast resin busbar, and related power distribution systems."
   button:
-    enable: false
+    enable: true
+    label: "Browse Technical Guides"
+    link: "/blog"
 
+# Features
 features:
-  - title: Isolated Phase Bus (IPB)
-    content: Metal-enclosed busbar with isolated phase conductors for high-current applications.
-    image: images/wetown/ipb.png
+  - title: "Isolated Phase Bus (IPB)"
+    content: "Metal-enclosed busbar with isolated phase conductors for high-current generator connections."
+    image: "images/wetown/ipb.png"
     bulletpoints:
-      - High current capacity up to 40,000A
-      - Phase separation for enhanced safety
-      - Premium quality aluminum/copper conductors
+      - "Current ratings up to 40,000A"
+      - "Phase-separated enclosures for fault protection"
+      - "Aluminum or copper conductors"
     button:
       enable: true
-      label: Learn More
-      link: /products/ipb
+      label: "Learn More"
+      link: "/blog/tags/ipb-basics/"
 
-  - title: Non-Segregated Phase Bus (NSPB)
-    content: Cost-effective medium voltage busbar for power distribution applications.
-    image: images/wetown/nspb.png
+  - title: "Non-Segregated Phase Bus (NSPB)"
+    content: "Cost-effective enclosed busbar for medium-voltage distribution in power plants and industrial facilities."
+    image: "images/wetown/nspb.png"
     bulletpoints:
-      - Aluminum alloy conductors
-      - Compact design for switchgear applications
-      - Compliant with IEC 62271-215
+      - "Aluminum alloy conductors"
+      - "Compact switchgear integration"
+      - "IEC 62271-215 compliant"
     button:
       enable: true
-      label: Learn More
-      link: /products/nspb
+      label: "Learn More"
+      link: "/blog/tags/non-segregated-phase-busbar/"
 
-  - title: Cast Resin Busbar
-    content: Factory-sealed busbar systems for harsh environments.
-    image: images/wetown/crb-layout.png
+  - title: "Cast Resin Busbar"
+    content: "Factory-sealed busbar systems for harsh environments — outdoor, humid, and chemically aggressive conditions."
+    image: "images/wetown/crb-layout.png"
     bulletpoints:
-      - Epoxy resin encapsulation
-      - High IP protection rating
-      - Suitable for outdoor and humid environments
+      - "Epoxy resin encapsulation, IP68 rated"
+      - "Suitable for outdoor and marine environments"
+      - "High chemical and moisture resistance"
     button:
       enable: true
-      label: Learn More
-      link: /products/cast-resin-busbar
+      label: "Learn More"
+      link: "/blog/tags/cast-resin-busbar/"
 ---
 
-# Industrial Power Equipment Solutions
+# About This Site
 
-Busbar systems and power distribution equipment for industrial applications.
+ElecPower is an independent technical resource for busbar system selection and application. Andy specializes in IPB/NSPB/cast resin busbar research, providing neutral technical guidance for engineers and procurement professionals.
 
-## Core Product Categories
-
-### Isolated Phase Bus (IPB)
-
-Metal-enclosed busbar with isolated phase conductors for high-current applications.
-
-### Enclosed Busbar
-
-Industrial power distribution solution for facility-wide equipment.
-
-### Common Enclosure Bus
-
-Compact distribution design for space-constrained installations.
-
-## Applications
-
-### Power Generation
-
-Busbar systems connect major electrical components in power generation facilities.
-
-### Industrial Facilities
-
-Power distribution within industrial facilities.
-
-### Commercial Buildings
-
-Power infrastructure for large commercial buildings.
-
-## Technical References
-
-System design references international electrical standards and technical requirements.
-
-## FAQ Preview
-
-**What is Isolated Phase Bus (IPB)?**
-
-IPB is a metal-enclosed busbar system where each phase conductor is housed in a separate electrically isolated enclosure.
-
-**What are the main applications for busbar systems?**
-
-Busbar systems are used in power generation facilities, industrial plants, and large commercial buildings.
-
-## Contact
-
-For technical specifications or engineering questions, contact our team directly.
+**Not a manufacturer. Not a sales channel.** Information here reflects general industry knowledge and publicly available standards.

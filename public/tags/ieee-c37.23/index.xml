@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>IEEE C37.23 on ElecPower - Wetown Industrial Power Solutions</title><link>https://www.elecpower.cn/tags/ieee-c37.23/</link><description>Recent content in IEEE C37.23 on ElecPower - Wetown Industrial Power Solutions</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://www.elecpower.cn/tags/ieee-c37.23/index.xml" rel="self" type="application/rss+xml"/><item><title>Busbar Systems Standards and Compliance: A Complete Engineering Guide</title><link>https://www.elecpower.cn/english/blog/busbar-systems-standards-compliance-guide/</link><pubDate>Thu, 09 Apr 2026 00:00:00 +0800</pubDate><guid>https://www.elecpower.cn/english/blog/busbar-systems-standards-compliance-guide/</guid><description>&lt;p&gt;Electrical standards exist for a single practical reason: to ensure that equipment performs safely and reliably in service, across all the edge cases and worst-case conditions that no individual manufacturer, engineer, or user can anticipate alone. For busbar systems, this means defining how much current a busbar can carry without overheating, how much fault current it can withstand without mechanical failure, how it should be tested before installation, and what markings and documentation prove it meets those requirements.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IEEE C37.23 on ElecPower - Wetown Industrial Power Solutions</title>
+    <link>https://www.elecpower.cn/tags/ieee-c37.23/</link>
+    <description>Recent content in IEEE C37.23 on ElecPower - Wetown Industrial Power Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://www.elecpower.cn/tags/ieee-c37.23/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Busbar Systems Standards and Compliance: A Complete Engineering Guide</title>
+      <link>https://www.elecpower.cn/blog/busbar-systems-standards-compliance-guide/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0800</pubDate>
+      <guid>https://www.elecpower.cn/blog/busbar-systems-standards-compliance-guide/</guid>
+      <description>&lt;p&gt;Electrical standards exist for a single practical reason: to ensure that equipment performs safely and reliably in service, across all the edge cases and worst-case conditions that no individual manufacturer, engineer, or user can anticipate alone. For busbar systems, this means defining how much current a busbar can carry without overheating, how much fault current it can withstand without mechanical failure, how it should be tested before installation, and what markings and documentation prove it meets those requirements.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

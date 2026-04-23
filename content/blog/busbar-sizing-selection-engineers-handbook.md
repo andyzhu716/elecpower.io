@@ -4,13 +4,19 @@ description: "Step-by-step busbar sizing methodology for electrical engineers. C
 date: 2026-04-09
 lastmod: 2026-04-09
 draft: false
-tags: ["sizing", "selection", "busbar", "engineering", "current rating"]
-categories: ["Selection Guide", "Engineer Handbook"]
+tags:
+  - busbar sizing
+  - busbar calculation
+  - ampacity
+  - short-circuit
+  - electrical engineering
+  - busbar selection
+  - current rating
+categories:
+  - Technical Guide
+  - Engineering Handbook
 featured_image: "images/blog/busbar-sizing-selection-engineers-handbook.jpg"
-keywords: ["busbar sizing", "busbar selection", "current rating", "conductor size"]
 ---
-
-
 
 Selecting and sizing a busbar system requires matching electrical, mechanical, and environmental parameters to a specific installation. Get it wrong and the system either runs hot — shortening insulation life and creating fire risk — or costs far more than necessary through over-specification. Get it right and the busbar performs reliably for decades with minimal maintenance.
 
@@ -411,8 +417,6 @@ The two primary busbar materials are aluminum alloy and copper. The choice affec
 - More uniform current distribution (reduces skin effect)
 - Higher section modulus for equivalent cross-sectional area (better mechanical strength)
 - Better heat dissipation per unit of conductive material
-
-![Insulated Copper Tube Busbar](/images/wetown/pjtm-layout.png "Insulated Copper Tube Busbar (PJTM) Layout")
 
 **Flat (rectangular) bus bars** are common in low-voltage switchgear, distribution panels, and NSPB systems at moderate current ratings. They are easier to branch-tap and more compact in low-voltage applications where the enclosure volume is not dominated by phase separation requirements.
 

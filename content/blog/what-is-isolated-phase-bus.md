@@ -1,15 +1,9 @@
 ---
-title: What Is Isolated Phase Bus and How Does It Work?
+title: "What Is Isolated Phase Bus and How Does It Work?"
 description: "Learn what isolated phase bus (IPB) is, how it works, where it is used, and why it is widely applied in generator-to-transformer connections in power plants."
-meta_title: "What Is Isolated Phase Bus? Working Principle, Components and Applications | Wetown"
-date: "2026-03-19T16:00:00+08:00"
-draft: false
-categories: ["IPB Basics", "Technical Guide"]
-tags: ["IPB", "isolated phase bus", "basics", "generator leads"]
-keywords: ["isolated phase bus", "IPB definition", "generator busbar", "IPB how it works"]
+meta_title: "What Is Isolated Phase Bus? Working Principle, Components and Applications "
+date: 2026-03-19T16:00:00+08:00
 ---
-
-
 
 Isolated phase bus, often called **IPB**, is a type of metal-enclosed bus system widely used in medium- and large-capacity power plants. It is mainly installed between the generator and the main transformer, where high current, operational reliability, and electrical safety are critical.
 

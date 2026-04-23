@@ -1,15 +1,9 @@
 ---
-title: "IPB vs NSPB: What is the Difference?"
+title: "IPB vs NSPB: What’s the Difference?"
 description: "Compare isolated phase bus (IPB) and non-segregated phase bus (NSPB) in terms of structure, applications, current level, space requirements, and how to choose the right system for your project."
-meta_title: "IPB vs NSPB: Differences, Applications and Selection Guide | Wetown"
-date: "2026-03-19T16:01:00+08:00"
-draft: false
-categories: ["Comparison", "Technical Guide"]
-tags: ["IPB", "NSPB", "comparison", "phase separated busbar"]
-keywords: ["IPB vs NSPB", "isolated phase bus vs non-segregated", "busbar comparison"]
+meta_title: "IPB vs NSPB: Differences, Applications and Selection Guide "
+date: 2026-03-19T16:01:00+08:00
 ---
-
-
 
 When selecting an enclosed busbar system for a power plant or industrial project, one of the most common questions is whether to use **isolated phase bus (IPB)** or **non-segregated phase bus (NSPB)**.
 

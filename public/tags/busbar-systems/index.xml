@@ -1,1 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Busbar Systems on ElecPower - Wetown Industrial Power Solutions</title><link>https://www.elecpower.cn/tags/busbar-systems/</link><description>Recent content in Busbar Systems on ElecPower - Wetown Industrial Power Solutions</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0800</lastBuildDate><atom:link href="https://www.elecpower.cn/tags/busbar-systems/index.xml" rel="self" type="application/rss+xml"/><item><title>Isolated Phase Busbar (IPB): Complete Technical Guide</title><link>https://www.elecpower.cn/english/blog/isolated-phase-busbar-ipb-guide/</link><pubDate>Thu, 09 Apr 2026 00:00:00 +0800</pubDate><guid>https://www.elecpower.cn/english/blog/isolated-phase-busbar-ipb-guide/</guid><description>&lt;p&gt;An &lt;strong&gt;isolated phase busbar (IPB)&lt;/strong&gt; is a metal-enclosed electrical bus system in which each phase conductor occupies its own separate, grounded metallic housing. This design is the highest-reliability solution for high-current power transmission in critical infrastructure — particularly in power plants, large substations, and heavy industrial facilities where an unplanned outage carries severe financial or safety consequences.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Busbar Systems on ElecPower - Wetown Industrial Power Solutions</title>
+    <link>https://www.elecpower.cn/tags/busbar-systems/</link>
+    <description>Recent content in Busbar Systems on ElecPower - Wetown Industrial Power Solutions</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2026 00:00:00 +0800</lastBuildDate>
+    <atom:link href="https://www.elecpower.cn/tags/busbar-systems/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Isolated Phase Busbar (IPB): Complete Technical Guide</title>
+      <link>https://www.elecpower.cn/blog/isolated-phase-busbar-ipb-guide/</link>
+      <pubDate>Thu, 09 Apr 2026 00:00:00 +0800</pubDate>
+      <guid>https://www.elecpower.cn/blog/isolated-phase-busbar-ipb-guide/</guid>
+      <description>&lt;p&gt;An &lt;strong&gt;isolated phase busbar (IPB)&lt;/strong&gt; is a metal-enclosed electrical bus system in which each phase conductor occupies its own separate, grounded metallic housing. This design is the highest-reliability solution for high-current power transmission in critical infrastructure — particularly in power plants, large substations, and heavy industrial facilities where an unplanned outage carries severe financial or safety consequences.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
