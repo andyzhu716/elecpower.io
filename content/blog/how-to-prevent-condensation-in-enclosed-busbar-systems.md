@@ -25,6 +25,8 @@ Condensation occurs when moist air inside the enclosure reaches conditions where
 - Improved enclosure sealing
 - Humidity and pressure monitoring
 
+![Air Circulation Drying Unit](/images/wetown/ACDU.png "ACDU for Enclosed Busbar Condensation Prevention")
+
 ## Where Is Condensation Risk Higher?
 
 Condensation risk is usually higher in coastal projects, high-humidity environments, outdoor installations, chemical plants, and power stations with frequent shutdown and restart cycles.

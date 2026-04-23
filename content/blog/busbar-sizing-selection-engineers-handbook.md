@@ -412,6 +412,8 @@ The two primary busbar materials are aluminum alloy and copper. The choice affec
 - Higher section modulus for equivalent cross-sectional area (better mechanical strength)
 - Better heat dissipation per unit of conductive material
 
+![Insulated Copper Tube Busbar](/images/wetown/pjtm-layout.png "Insulated Copper Tube Busbar (PJTM) Layout")
+
 **Flat (rectangular) bus bars** are common in low-voltage switchgear, distribution panels, and NSPB systems at moderate current ratings. They are easier to branch-tap and more compact in low-voltage applications where the enclosure volume is not dominated by phase separation requirements.
 
 ### 6.3 Enclosure Design
