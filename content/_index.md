@@ -30,7 +30,7 @@ features:
 
   - title: "Non-Segregated Phase Bus (NSPB)"
     content: "Cost-effective enclosed busbar for medium-voltage distribution in power plants and industrial facilities."
-    image: "images/wetown/nspb.png"
+    image: "images/wetown/nspb-layout.png"
     bulletpoints:
       - "Aluminum alloy conductors"
       - "Compact switchgear integration"
