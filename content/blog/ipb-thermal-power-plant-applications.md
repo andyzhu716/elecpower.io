@@ -90,6 +90,8 @@ The choice of scheme affects IPB layout, civil works, and maintenance procedures
 
 ## 3. Auxiliary System Connections
 
+![Neutral Grounding Cabinet](/images/wetown/ngc.png "Neutral Grounding Cabinet for IPB System")
+
 ### 3.1 Unit Auxiliary Transformer (UAT) Connection
 
 The UAT supplies power to all auxiliary equipment within the generating unit — from mill motors and fan drives to the plant's internal lighting and control systems. The IPB branch to the UAT must accommodate:
@@ -106,6 +108,8 @@ The excitation transformer feeds the generator's field excitation system. The IP
 - **Ground fault sensitivity** — excitation system ground faults must be detected without causing IPB protection to trip
 
 ### 3.3 PT and Lightning Arrester Connections
+
+![PT & LA Cubicle](/images/wetown/PT & LA Cubicle.png "PT & LA Cubicle for IPB Protection")
 
 Potential transformer (PT) and lightning arrester branches are short IPB sections that require:
 
@@ -162,6 +166,8 @@ IPB for thermal power plants must be specified for the full range of ambient con
 | High altitude (>1,000 m) | Derate current rating per IEC 60815 |
 
 For high-altitude sites, IPB current ratings must be derated because of reduced air density and cooling capacity. The supplier should confirm derating factors based on actual site elevation.
+
+![Air Circulation Drying Unit](/images/wetown/ACDU.png "ACDU for IPB Enclosure Climate Control")
 
 ### 5.2 Pollution and Coastal Environments
 
@@ -263,4 +269,4 @@ Early confirmation of these interfaces in the design phase significantly reduces
 - [Isolated Phase Busbar (IPB): Complete Technical Guide](/blog/isolated-phase-busbar-ipb-guide/) — Comprehensive IPB engineering reference
 - [IPB vs NSPB: What Is the Difference?](/blog/ipb-vs-nspb/) — Comparison of the two major enclosed busbar technologies
 - [How to Choose the Right Busbar System for a Power Plant](/blog/how-to-choose-the-right-busbar-system-for-a-power-plant/) — Plant-level selection methodology
-- [IPB vs Busbar Trunking (IEC 61439‑6): Key Differences](/blog/ipb-vs-enclosed-busbar/) — Distinguishing IPB from standardized busbar trunking
+- [IPB vs NSPB: What Is the Difference?](/blog/ipb-vs-nspb/) — Comparison of the two major enclosed busbar technologies
